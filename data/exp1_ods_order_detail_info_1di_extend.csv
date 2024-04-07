@@ -1,0 +1,1001 @@
+id,actual_amount,comment,original_amount,rating,reduce_amount,delevery_amount,promotion_id,user_addr,create_time,update_time
+1,25.98,Highly recommend this product,39.93,4,13.95,9,52,6 Tony Junction,2023-10-27,2023-10-27
+2,25.1,Very satisfied with my purchase,54.31,5,29.21,9,90,6286 Fuller Lane,2023-04-19,2023-04-19
+3,20.06,The product is perfect for my needs,50.2,4,30.14,14,3,467 Talisman Alley,2023-09-07,2023-09-07
+4,12.17,The product is difficult to assemble,44.73,5,32.56,9,44,7255 Texas Circle,2023-05-06,2023-05-06
+5,20.35,The product is a space-saver,51.38,2,31.03,11,28,2 Anderson Park,2023-04-13,2023-04-13
+6,17.56,The product is a stress-reliever,56.79,5,39.23,14,67,45207 3rd Point,2023-10-03,2023-10-03
+7,27.72,The product is a space-saver,35.21,3,7.49,16,94,34449 Twin Pines Court,2023-03-15,2023-03-15
+8,25.76,The product is a confidence-booster,39.2,4,13.44,15,74,3248 Veith Point,2023-03-16,2023-03-16
+9,13.86,The size runs small,33.21,5,19.35,13,14,5 Pepper Wood Drive,2023-12-30,2023-12-30
+10,20.88,The product is a game-changer,37.25,4,16.37,13,56,1 Vahlen Plaza,2023-11-04,2023-11-04
+11,13.85,The product is difficult to assemble,36.55,2,22.7,9,96,62404 Tony Road,2023-04-19,2023-04-19
+12,23.74,The product is a great gift idea,37.33,1,13.59,16,49,8436 Mandrake Hill,2023-02-11,2023-02-11
+13,24.16,The product is not durable,55.8,1,31.64,10,66,8572 Monica Park,2023-08-19,2023-08-19
+14,27.89,The product is a must-have for every home,30.5,1,2.61,14,85,0037 Wayridge Junction,2023-05-14,2023-05-14
+15,26.99,The product is difficult to assemble,55.62,3,28.63,14,37,961 2nd Crossing,2023-05-11,2023-05-11
+16,20.91,order a size up,57.33,5,36.42,14,16,67 Burning Wood Parkway,2023-03-10,2023-03-10
+17,23.33,Highly recommend this product,57.61,5,34.28,11,30,684 Arkansas Parkway,2023-11-04,2023-11-04
+18,14.74,The product is not durable,38.43,2,23.69,15,72,1559 South Way,2023-10-07,2023-10-07
+19,25.07,The price is too high for the quality,50.39,5,25.32,9,13,71058 Green Lane,2023-04-01,2023-04-01
+20,28.61,The product is a conversation-starter,49.87,4,21.26,15,87,1 Leroy Junction,2023-04-30,2023-04-30
+21,20.62,The product exceeded my expectations,36.97,3,16.35,11,55,5 Jackson Hill,2023-04-11,2023-04-11
+22,25.34,The product is a crowd-pleaser,39.9,1,14.56,10,23,6569 Anderson Point,2023-06-04,2023-06-04
+23,13.8,The product is a party-starter,44.61,5,30.81,13,50,46 Gina Lane,2023-12-08,2023-12-08
+24,26.4,The product is difficult to assemble,31.66,1,5.26,10,21,14 Tony Place,2023-12-12,2023-12-12
+25,11.66,great service,54.8,2,43.14,14,51,651 Lien Point,2023-08-31,2023-08-31
+26,21.56,The product is not durable,54.26,4,32.7,16,58,10027 Meadow Vale Street,2023-05-21,2023-05-21
+27,21.33,Very disappointed with this purchase,42.9,3,21.57,15,7,9024 Saint Paul Avenue,2023-05-27,2023-05-27
+28,19.78,I love this product so much,44.45,1,24.67,15,36,027 Rieder Crossing,2023-01-09,2023-01-09
+29,27.75,The product is a conversation-starter,40.4,4,12.65,14,46,3 Green Center,2023-01-05,2023-01-05
+30,12.84,The product is a head-turner,33.25,5,20.41,16,32,712 Bunting Road,2023-04-05,2023-04-05
+31,21.33,Very disappointed with this purchase,57.61,1,36.28,16,97,88383 Manitowish Drive,2023-06-09,2023-06-09
+32,28.22,Very happy with my purchase,44.48,2,16.26,16,56,7043 Lillian Way,2023-03-28,2023-03-28
+33,24.92,Would recommend to friends and family,36.93,3,12.01,13,47,7722 Schlimgen Point,2023-11-14,2023-11-14
+34,26.08,Would recommend to friends and family,49.88,4,23.8,9,94,4 Washington Way,2023-05-03,2023-05-03
+35,29.83,The product is exactly as described,40.07,3,10.24,10,88,52 Talmadge Street,2023-03-14,2023-03-14
+36,13.91,The product is a time-saver,40.86,4,26.95,16,74,1257 Dorton Circle,2023-12-25,2023-12-25
+37,15.34,I love this product so much,37.48,3,22.14,16,1,0390 South Terrace,2023-04-23,2023-04-23
+38,24.36,The product is a party-starter,50.27,3,25.91,12,24,8514 Roth Park,2023-10-12,2023-10-12
+39,29.77,The product is a great value for the price,53.9,2,24.13,8,25,186 Reinke Place,2023-02-05,2023-02-05
+40,23.17,Highly recommend this product,45.11,1,21.94,9,93,78868 Forest Run Street,2023-04-09,2023-04-09
+41,12.2,Will definitely buy again,39.15,2,26.95,13,69,49221 Monica Road,2023-02-18,2023-02-18
+42,14.17,The packaging was damaged,49.61,2,35.44,8,95,204 Lien Drive,2023-07-22,2023-07-22
+43,29.11,The product is a game-changer,50.81,4,21.7,11,54,7665 1st Terrace,2023-09-17,2023-09-17
+44,26.25,Great quality,40.37,3,14.12,8,15,62 Crownhardt Hill,2023-08-18,2023-08-18
+45,27.43,Will definitely buy again,56.32,2,28.89,9,49,35 Hollow Ridge Court,2023-04-26,2023-04-26
+46,16.79,I love this product so much,56.08,5,39.29,16,92,0 Onsgard Drive,2023-04-11,2023-04-11
+47,10.71,The product is not durable,58.63,4,47.92,16,75,200 Dapin Hill,2023-03-12,2023-03-12
+48,24.74,The product is a conversation-starter,46.88,2,22.14,10,58,1 Trailsway Place,2023-10-30,2023-10-30
+49,28.33,Will definitely buy again,36.38,3,8.05,14,84,09344 Ramsey Alley,2023-05-03,2023-05-03
+50,12.6,The product is a time-saver,34.18,3,21.58,15,44,02 Gina Court,2023-06-20,2023-06-20
+51,25.12,The product is exactly as described,49.69,3,24.57,11,32,424 Burrows Point,2023-09-10,2023-09-10
+52,27.35,Not what I expected,55.7,5,28.35,8,4,8 Crowley Way,2023-04-28,2023-04-28
+53,16.47,The product is a space-saver,55.98,1,39.51,15,12,65354 Doe Crossing Crossing,2023-08-05,2023-08-05
+54,24.39,Great quality,39.0,5,14.61,16,100,8453 Shopko Place,2023-06-28,2023-06-28
+55,20.17,Very disappointed with this purchase,52.71,1,32.54,11,30,79842 Pennsylvania Place,2023-07-01,2023-07-01
+56,28.23,Not worth the money,31.76,1,3.53,10,68,73 Havey Junction,2023-06-08,2023-06-08
+57,12.16,The product is a crowd-pleaser,32.15,5,19.99,13,45,36 Helena Trail,2023-03-12,2023-03-12
+58,29.33,The product is a head-turner,34.98,4,5.65,8,51,8 Anhalt Place,2023-04-09,2023-04-09
+59,11.14,great service,50.19,4,39.05,11,6,08 Warbler Junction,2023-06-27,2023-06-27
+60,21.38,The material is very soft and comfortable,34.01,5,12.63,9,22,4054 Bartillon Hill,2023-05-04,2023-05-04
+61,19.35,Would buy from this seller again,54.19,4,34.84,15,63,02 Butternut Hill,2023-04-04,2023-04-04
+62,17.74,I love this product so much,56.71,2,38.97,14,91,9 Menomonie Avenue,2023-10-02,2023-10-02
+63,17.21,The product is a great gift idea,42.12,4,24.91,15,25,029 Linden Park,2023-12-09,2023-12-09
+64,22.67,The product is a show-stopper,45.13,5,22.46,10,97,5617 International Court,2023-06-14,2023-06-14
+65,26.95,Would recommend to friends and family,57.36,1,30.41,13,94,5116 Glendale Parkway,2023-02-04,2023-02-04
+66,10.34,Product arrived earlier than expected,31.11,5,20.77,13,76,1 Kenwood Way,2023-04-27,2023-04-27
+67,24.32,The price is too high for the quality,39.37,2,15.05,10,100,654 Hintze Alley,2023-03-14,2023-03-14
+68,19.05,Very happy with my purchase,32.34,5,13.29,12,91,9 Westerfield Way,2023-03-28,2023-03-28
+69,12.81,The product is stylish and trendy,38.82,1,26.01,11,26,41 Blue Bill Park Crossing,2023-04-24,2023-04-24
+70,13.13,The product is a space-saver,34.31,2,21.18,14,72,53 Oakridge Terrace,2023-02-09,2023-02-09
+71,21.06,The product is a stress-reliever,57.06,3,36.0,14,7,1209 Caliangt Road,2023-01-13,2023-01-13
+72,20.37,Very happy with my purchase,34.84,2,14.47,15,80,5048 Acker Hill,2023-07-24,2023-07-24
+73,13.01,great service,38.53,3,25.52,16,81,73 Parkside Drive,2023-01-11,2023-01-11
+74,27.84,great service,56.91,3,29.07,13,70,57715 Summer Ridge Plaza,2023-05-22,2023-05-22
+75,22.45,The product is versatile and can be used in many ways,45.82,3,23.37,13,22,322 Truax Alley,2023-02-03,2023-02-03
+76,11.62,Highly recommend this product,31.86,4,20.24,13,61,6 Autumn Leaf Way,2023-07-26,2023-07-26
+77,23.77,Highly recommend this product,32.08,5,8.31,9,98,64390 Hermina Point,2023-06-01,2023-06-01
+78,20.78,order a size up,46.09,5,25.31,10,9,218 Dapin Junction,2023-05-24,2023-05-24
+79,10.52,The product is easy to use,48.34,3,37.82,13,5,085 Steensland Pass,2023-09-03,2023-09-03
+80,19.24,The product is a mood-booster,47.33,2,28.09,9,84,0708 Waxwing Drive,2023-06-07,2023-06-07
+81,16.32,Fast shipping,43.39,3,27.07,16,60,505 Old Shore Hill,2023-06-27,2023-06-27
+82,13.86,The product is a mood-booster,49.81,2,35.95,10,23,439 Everett Hill,2023-07-11,2023-07-11
+83,20.41,The product is a great value for the price,40.37,3,19.96,12,18,64 Longview Road,2023-12-26,2023-12-26
+84,24.1,The product is versatile and can be used in many ways,44.14,2,20.04,13,56,1 Rockefeller Plaza,2023-12-24,2023-12-24
+85,24.45,The product is a show-stopper,41.98,2,17.53,13,86,41 Barby Point,2023-03-03,2023-03-03
+86,13.38,The product is not durable,58.08,1,44.7,8,8,0255 Dennis Pass,2023-08-30,2023-08-30
+87,17.75,Great quality,33.32,1,15.57,14,1,41841 Dunning Junction,2023-05-09,2023-05-09
+88,28.12,Very disappointed with this purchase,46.62,1,18.5,16,52,02064 Park Meadow Pass,2023-12-04,2023-12-04
+89,14.09,order a size up,52.83,2,38.74,8,82,08 Blaine Street,2023-09-21,2023-09-21
+90,22.03,The size runs small,49.63,2,27.6,9,43,63702 Vahlen Terrace,2023-02-06,2023-02-06
+91,17.28,I love this product so much,41.08,3,23.8,11,89,79817 Comanche Park,2023-06-23,2023-06-23
+92,10.62,Would recommend to friends and family,51.13,2,40.51,12,42,3813 Division Center,2023-01-27,2023-01-27
+93,27.36,The product is a game-changer,51.93,1,24.57,14,88,18 Cottonwood Point,2023-10-19,2023-10-19
+94,26.79,This product is amazing!,30.79,1,4.0,10,83,7 Fairfield Pass,2023-10-08,2023-10-08
+95,29.01,Very happy with my purchase,40.17,5,11.16,8,28,9 Kipling Terrace,2023-11-10,2023-11-10
+96,12.09,The product is not durable,31.06,5,18.97,8,49,8171 Corscot Drive,2023-04-03,2023-04-03
+97,12.45,Very satisfied with my purchase,41.58,5,29.13,14,25,27 Evergreen Circle,2023-10-16,2023-10-16
+98,14.14,The product is easy to use,49.39,2,35.25,13,10,16925 Sunnyside Plaza,2023-09-12,2023-09-12
+99,22.85,Very happy with my purchase,41.97,1,19.12,13,96,7995 Hanson Drive,2023-04-29,2023-04-29
+100,28.98,The product is exactly as described,42.26,2,13.28,11,67,925 Kim Terrace,2023-01-07,2023-01-07
+101,24.84,The product is versatile and can be used in many ways,54.39,4,29.55,12,81,8 Basil Point,2023-11-26,2023-11-26
+102,12.77,Great quality,31.19,3,18.42,10,45,29154 School Lane,2023-11-01,2023-11-01
+103,25.37,The product is a game-changer,58.03,4,32.66,12,47,32850 Monica Park,2023-03-27,2023-03-27
+104,19.77,The price is too high for the quality,42.9,5,23.13,12,46,7763 Meadow Vale Place,2023-10-09,2023-10-09
+105,23.01,The product is stylish and trendy,51.18,4,28.17,9,88,65777 Hudson Plaza,2023-02-10,2023-02-10
+106,16.98,The product is a crowd-pleaser,39.33,2,22.35,9,29,7 Brown Court,2023-01-21,2023-01-21
+107,26.8,The product is a game-changer,38.09,1,11.29,14,98,6 Lerdahl Street,2023-07-29,2023-07-29
+108,26.93,The product is a lifesaver,33.05,1,6.12,8,42,43 Portage Center,2023-03-28,2023-03-28
+109,24.37,The product exceeded my expectations,59.28,2,34.91,10,97,8591 Westend Street,2023-02-13,2023-02-13
+110,26.59,Will definitely buy again,36.89,4,10.3,10,13,86 Manufacturers Road,2023-08-19,2023-08-19
+111,26.39,The color is not as shown in the picture,37.87,2,11.48,9,54,23 Farwell Park,2023-11-05,2023-11-05
+112,16.45,Not what I expected,44.49,3,28.04,12,33,23773 South Alley,2023-05-29,2023-05-29
+113,16.4,Product arrived earlier than expected,42.72,2,26.32,13,4,44 Wayridge Junction,2023-11-19,2023-11-19
+114,20.04,The product is versatile and can be used in many ways,57.28,3,37.24,10,5,59 Loeprich Plaza,2023-12-30,2023-12-30
+115,18.21,The product is stylish and trendy,40.59,3,22.38,10,56,389 Meadow Valley Parkway,2023-12-10,2023-12-10
+116,18.66,The product is a time-saver,42.51,3,23.85,13,62,29 Merry Center,2023-07-24,2023-07-24
+117,22.13,Fast shipping,50.05,4,27.92,11,31,296 Loftsgordon Point,2023-10-15,2023-10-15
+118,20.18,order a size up,57.73,1,37.55,15,21,693 Reindahl Crossing,2023-02-24,2023-02-24
+119,11.52,Would buy from this seller again,35.55,2,24.03,10,82,35832 Almo Place,2023-08-12,2023-08-12
+120,28.34,The product exceeded my expectations,45.73,3,17.39,15,85,59 Schiller Plaza,2023-05-10,2023-05-10
+121,16.27,The product is a game-changer,52.43,5,36.16,8,87,9201 Melrose Crossing,2023-05-28,2023-05-28
+122,11.49,The size runs small,42.82,3,31.33,13,91,98529 Hovde Street,2023-06-06,2023-06-06
+123,27.23,The product is a game-changer,49.61,1,22.38,13,19,6 Meadow Ridge Court,2023-01-22,2023-01-22
+124,13.33,The product is a money-saver,40.44,5,27.11,13,23,655 Haas Street,2023-06-15,2023-06-15
+125,13.09,The product is a space-saver,48.04,2,34.95,10,33,5512 Elka Street,2023-11-21,2023-11-21
+126,12.18,The product broke after a few uses,46.43,4,34.25,11,16,535 Pearson Junction,2023-01-21,2023-01-21
+127,25.07,The product is a party-starter,34.93,3,9.86,14,49,6026 Esch Junction,2023-08-15,2023-08-15
+128,20.18,The product is a lifesaver,48.78,2,28.6,15,52,1905 Cambridge Center,2023-03-08,2023-03-08
+129,21.69,The product is perfect for my needs,31.9,2,10.21,11,62,6 Melrose Point,2023-04-19,2023-04-19
+130,19.97,The product is a mood-booster,48.18,3,28.21,15,5,44 6th Plaza,2023-03-15,2023-03-15
+131,20.37,The product is perfect for my needs,38.12,2,17.75,10,29,5 Annamark Lane,2023-09-14,2023-09-14
+132,20.86,The product is lightweight and easy to carry,39.01,1,18.15,12,94,291 Fieldstone Plaza,2023-04-22,2023-04-22
+133,24.06,The product is exactly as described,47.67,5,23.61,9,51,32942 Red Cloud Place,2023-03-10,2023-03-10
+134,24.16,The color is not as shown in the picture,32.59,5,8.43,12,83,3572 Clove Terrace,2023-06-14,2023-06-14
+135,11.59,The product exceeded my expectations,44.99,5,33.4,9,45,644 Gulseth Avenue,2023-04-15,2023-04-15
+136,21.19,The product is difficult to assemble,35.63,4,14.44,8,69,54 Hayes Alley,2023-05-21,2023-05-21
+137,22.74,The product is a space-saver,38.54,4,15.8,13,24,23993 Northfield Point,2023-08-02,2023-08-02
+138,13.0,Highly recommend this product,52.16,4,39.16,8,27,4920 Oneill Crossing,2023-11-12,2023-11-12
+139,11.13,Highly recommend this product,52.22,3,41.09,15,82,855 Bowman Center,2023-03-25,2023-03-25
+140,22.38,Very happy with my purchase,55.2,1,32.82,14,4,4227 Novick Junction,2023-08-02,2023-08-02
+141,26.31,Product arrived earlier than expected,33.79,4,7.48,14,54,901 Iowa Alley,2023-03-27,2023-03-27
+142,22.19,The product is versatile and can be used in many ways,55.34,2,33.15,12,44,77013 Longview Crossing,2023-12-18,2023-12-18
+143,13.57,Excellent customer service,50.58,5,37.01,11,23,08 Redwing Lane,2023-12-22,2023-12-22
+144,17.53,The product is a conversation-starter,51.65,4,34.12,8,2,74 Brown Plaza,2023-03-08,2023-03-08
+145,11.84,The product is perfect for my needs,32.48,2,20.64,9,28,212 Eastwood Road,2023-04-08,2023-04-08
+146,25.4,The color is not as shown in the picture,44.15,5,18.75,11,43,9 Glacier Hill Court,2023-07-29,2023-07-29
+147,21.92,Very satisfied with my purchase,50.44,1,28.52,8,18,9 Packers Avenue,2023-02-16,2023-02-16
+148,21.82,The packaging was damaged,36.47,5,14.65,11,59,05 Namekagon Circle,2023-05-26,2023-05-26
+149,17.34,Fast shipping,52.2,4,34.86,8,66,331 Dixon Alley,2023-06-17,2023-06-17
+150,21.1,The product is a crowd-pleaser,38.06,4,16.96,13,56,175 Clarendon Trail,2023-05-17,2023-05-17
+151,24.62,The size runs small,30.37,3,5.75,13,73,988 Carioca Way,2023-10-29,2023-10-29
+152,21.59,The product is a must-have for every home,58.04,2,36.45,14,78,81171 Arrowood Parkway,2023-02-19,2023-02-19
+153,29.09,The product is a time-saver,43.05,3,13.96,13,64,223 Dakota Pass,2023-09-01,2023-09-01
+154,28.98,The size runs small,51.83,3,22.85,11,88,272 Mosinee Parkway,2023-09-27,2023-09-27
+155,19.55,The product is a game-changer,41.13,3,21.58,9,13,11432 Laurel Crossing,2023-04-29,2023-04-29
+156,23.68,Would recommend to friends and family,41.12,5,17.44,10,91,07 Sherman Crossing,2023-02-14,2023-02-14
+157,11.08,The product is exactly as described,34.88,4,23.8,9,79,2183 Rockefeller Avenue,2023-06-08,2023-06-08
+158,10.24,The product is a show-stopper,38.08,4,27.84,14,10,3387 Grover Way,2023-06-09,2023-06-09
+159,20.89,great service,38.83,2,17.94,11,62,273 Maple Street,2023-09-10,2023-09-10
+160,27.81,The color is not as shown in the picture,31.25,5,3.44,16,70,1402 Oxford Avenue,2023-07-21,2023-07-21
+161,20.3,The product is a time-saver,37.99,3,17.69,11,34,60 Carpenter Place,2023-11-20,2023-11-20
+162,12.21,The product is a game-changer,48.88,3,36.67,12,8,2 Blackbird Drive,2023-10-11,2023-10-11
+163,19.17,The product is a money-saver,40.62,3,21.45,14,48,47 Randy Junction,2023-06-12,2023-06-12
+164,13.41,The material is very soft and comfortable,56.0,4,42.59,10,17,2467 Mendota Lane,2023-06-28,2023-06-28
+165,19.7,I love this product so much,35.13,2,15.43,9,58,1142 Graedel Hill,2023-10-02,2023-10-02
+166,20.1,Fast shipping,58.95,1,38.85,14,66,063 Eggendart Drive,2023-11-15,2023-11-15
+167,17.22,The product is stylish and trendy,56.12,5,38.9,8,56,607 Shasta Road,2023-05-02,2023-05-02
+168,22.96,The product is a confidence-booster,41.61,3,18.65,13,60,506 Mendota Center,2023-02-14,2023-02-14
+169,15.78,The product is perfect for my needs,46.48,2,30.7,14,41,451 Amoth Drive,2023-02-06,2023-02-06
+170,11.1,The product broke after a few uses,30.41,1,19.31,10,24,84 Pleasure Lane,2023-04-04,2023-04-04
+171,21.2,Would buy from this seller again,55.08,4,33.88,10,26,72508 Lindbergh Court,2023-12-02,2023-12-02
+172,21.78,The product exceeded my expectations,49.34,3,27.56,8,19,5262 Garrison Pass,2023-08-16,2023-08-16
+173,20.58,The product is a lifesaver,39.08,3,18.5,13,44,9913 American Junction,2023-06-22,2023-06-22
+174,11.07,The product is versatile and can be used in many ways,59.1,5,48.03,8,13,75 Annamark Center,2023-07-03,2023-07-03
+175,10.84,The product is perfect for my needs,57.27,1,46.43,14,11,5 Jenifer Hill,2023-01-13,2023-01-13
+176,23.04,Great quality,41.79,1,18.75,11,5,98 Fordem Drive,2023-09-21,2023-09-21
+177,18.72,The material is very soft and comfortable,59.74,5,41.02,12,30,119 Northview Terrace,2023-08-22,2023-08-22
+178,13.06,The product is a conversation-starter,55.03,1,41.97,8,28,15550 Del Mar Parkway,2023-07-15,2023-07-15
+179,23.47,order a size up,58.47,5,35.0,15,95,179 Talisman Court,2023-07-05,2023-07-05
+180,16.34,The product is a game-changer,46.71,3,30.37,9,74,830 Pankratz Road,2023-08-31,2023-08-31
+181,18.93,The size runs small,41.04,1,22.11,14,63,146 Thackeray Street,2023-03-18,2023-03-18
+182,20.59,The product is a must-have for every home,50.12,3,29.53,13,96,81 Kenwood Junction,2023-06-12,2023-06-12
+183,20.95,The product is a crowd-pleaser,33.25,3,12.3,14,55,0 Charing Cross Way,2023-04-12,2023-04-12
+184,20.99,The product is a time-saver,58.4,3,37.41,15,37,30765 Talisman Parkway,2023-07-16,2023-07-16
+185,22.86,The product is a lifesaver,30.92,3,8.06,16,87,450 Marquette Lane,2023-05-10,2023-05-10
+186,14.42,The product broke after a few uses,43.48,2,29.06,11,92,828 Moland Hill,2023-03-17,2023-03-17
+187,23.37,Very happy with my purchase,47.77,2,24.4,8,33,3 Moland Hill,2023-04-23,2023-04-23
+188,17.13,Highly recommend this product,36.67,3,19.54,10,71,2871 Mosinee Pass,2023-10-05,2023-10-05
+189,17.87,Not worth the money,41.53,4,23.66,9,40,718 High Crossing Avenue,2023-05-18,2023-05-18
+190,28.82,The product is easy to use,30.92,3,2.1,9,56,4955 Paget Street,2023-12-06,2023-12-06
+191,14.16,The product is easy to use,36.81,4,22.65,16,89,73336 Clemons Point,2023-09-27,2023-09-27
+192,26.01,Very disappointed with this purchase,52.37,5,26.36,8,46,46 2nd Avenue,2023-04-13,2023-04-13
+193,27.02,The product is perfect for my needs,52.03,1,25.01,14,63,70 Fairview Terrace,2023-11-26,2023-11-26
+194,17.11,Fast shipping,45.79,4,28.68,9,5,73209 Surrey Center,2023-06-26,2023-06-26
+195,16.25,Would buy from this seller again,52.74,3,36.49,16,75,43764 Warrior Point,2023-09-20,2023-09-20
+196,26.53,The packaging was damaged,44.26,3,17.73,9,37,32673 Anniversary Lane,2023-06-28,2023-06-28
+197,14.78,The product is a time-saver,57.17,3,42.39,9,50,1 Fordem Center,2023-09-09,2023-09-09
+198,11.02,Would buy from this seller again,56.9,5,45.88,16,20,952 Raven Circle,2023-02-11,2023-02-11
+199,15.62,Fast shipping,51.98,3,36.36,12,34,218 Canary Circle,2023-04-23,2023-04-23
+200,10.65,The product is a space-saver,43.66,4,33.01,15,66,65181 Birchwood Crossing,2023-09-25,2023-09-25
+201,13.94,Not what I expected,55.59,1,41.65,10,93,11235 Elka Pass,2023-07-18,2023-07-18
+202,13.28,Fast shipping,44.75,3,31.47,15,79,5712 Johnson Parkway,2023-11-09,2023-11-09
+203,24.28,The product is a money-saver,56.19,1,31.91,13,15,78 Hanover Alley,2023-10-23,2023-10-23
+204,22.23,The size runs small,52.06,1,29.83,13,100,5 Farmco Junction,2023-11-27,2023-11-27
+205,23.93,Highly recommend this product,47.21,2,23.28,10,6,25 Morningstar Road,2023-08-26,2023-08-26
+206,12.7,This product is amazing!,38.6,1,25.9,14,38,410 Bluejay Hill,2023-01-03,2023-01-03
+207,11.9,I love this product so much,44.71,5,32.81,11,18,20379 Waywood Street,2023-06-07,2023-06-07
+208,28.44,The price is too high for the quality,46.21,2,17.77,13,12,3779 Debra Way,2023-11-05,2023-11-05
+209,16.68,This product is amazing!,52.96,2,36.28,9,17,756 Transport Park,2023-04-21,2023-04-21
+210,27.09,The product is a stress-reliever,40.98,2,13.89,11,55,086 Charing Cross Hill,2023-11-23,2023-11-23
+211,13.01,Not what I expected,57.7,1,44.69,9,74,3337 Holmberg Parkway,2023-12-14,2023-12-14
+212,26.36,The product is a stress-reliever,42.99,2,16.63,10,60,21340 Daystar Road,2023-10-26,2023-10-26
+213,12.47,The product is not durable,33.74,1,21.27,13,1,88 Corry Crossing,2023-09-23,2023-09-23
+214,16.73,The product is versatile and can be used in many ways,40.58,5,23.85,10,14,43 Bunker Hill Alley,2023-08-04,2023-08-04
+215,11.97,The material is very soft and comfortable,32.0,1,20.03,12,96,47724 Gerald Place,2023-04-08,2023-04-08
+216,21.41,I love this product so much,37.59,4,16.18,16,87,434 Talmadge Park,2023-07-17,2023-07-17
+217,13.9,order a size up,34.54,2,20.64,14,58,30024 Russell Way,2023-01-04,2023-01-04
+218,29.72,Very satisfied with my purchase,55.49,2,25.77,16,76,2 Kinsman Drive,2023-02-02,2023-02-02
+219,18.52,The product is difficult to assemble,48.23,1,29.71,9,1,6 Kinsman Trail,2023-05-28,2023-05-28
+220,12.13,The product is a time-saver,40.55,2,28.42,10,94,9434 Express Street,2023-06-05,2023-06-05
+221,21.17,The product is a game-changer,43.2,2,22.03,11,21,67192 Macpherson Hill,2023-06-27,2023-06-27
+222,28.25,The product is difficult to assemble,55.17,3,26.92,11,81,2484 Spenser Drive,2023-10-30,2023-10-30
+223,29.09,The product is not durable,34.0,1,4.91,13,72,51 Steensland Trail,2023-09-19,2023-09-19
+224,15.54,order a size up,44.67,2,29.13,13,31,19 Golden Leaf Hill,2023-01-23,2023-01-23
+225,12.68,Would buy from this seller again,50.48,4,37.8,11,39,7067 Cherokee Crossing,2023-04-04,2023-04-04
+226,26.45,Product arrived earlier than expected,58.22,4,31.77,11,78,18406 Blackbird Point,2023-04-27,2023-04-27
+227,25.87,The product is a stress-reliever,34.0,3,8.13,11,9,44 Oriole Hill,2023-10-06,2023-10-06
+228,24.16,Fast shipping,35.21,2,11.05,12,45,308 Warner Point,2023-02-02,2023-02-02
+229,28.45,Product arrived earlier than expected,47.27,3,18.82,14,88,8713 Commercial Court,2023-10-08,2023-10-08
+230,29.72,I love this product so much,41.44,2,11.72,14,11,79078 Browning Avenue,2023-04-22,2023-04-22
+231,12.76,order a size up,56.61,1,43.85,9,56,64608 Cordelia Terrace,2023-03-07,2023-03-07
+232,20.02,The product is easy to use,52.4,4,32.38,14,42,2226 Shelley Street,2023-08-08,2023-08-08
+233,22.45,The product is easy to use,46.18,4,23.73,10,19,72819 Harbort Hill,2023-07-30,2023-07-30
+234,28.62,The product is easy to use,34.29,3,5.67,14,96,58611 Sheridan Plaza,2023-07-24,2023-07-24
+235,16.73,The product is a lifesaver,49.31,3,32.58,12,5,4605 Meadow Ridge Pass,2023-04-28,2023-04-28
+236,12.85,The product is a show-stopper,53.44,1,40.59,9,53,01 Carberry Place,2023-12-29,2023-12-29
+237,24.43,The product exceeded my expectations,38.65,4,14.22,10,50,43117 Buell Lane,2023-05-07,2023-05-07
+238,15.38,Will definitely buy again,50.09,4,34.71,13,12,27118 Dexter Junction,2023-11-19,2023-11-19
+239,16.09,The product is perfect for my needs,43.54,4,27.45,14,36,0 Michigan Place,2023-08-30,2023-08-30
+240,28.54,The product is stylish and trendy,33.79,3,5.25,14,27,10970 Continental Park,2023-10-14,2023-10-14
+241,29.83,The product is a show-stopper,41.73,5,11.9,13,25,82168 Kipling Way,2023-10-07,2023-10-07
+242,16.05,The product is a money-saver,55.65,4,39.6,9,70,788 Ludington Lane,2023-06-11,2023-06-11
+243,26.29,The product is a space-saver,39.61,1,13.32,10,7,864 Becker Circle,2023-11-16,2023-11-16
+244,20.39,Would recommend to friends and family,33.91,4,13.52,13,75,06097 Corben Drive,2023-10-26,2023-10-26
+245,15.25,The product is a great gift idea,51.43,2,36.18,9,29,81 Mayfield Circle,2023-09-22,2023-09-22
+246,28.01,Very disappointed with this purchase,30.24,2,2.23,13,20,8 Garrison Drive,2023-01-17,2023-01-17
+247,17.74,The product is a confidence-booster,38.67,5,20.93,15,69,0 Tomscot Junction,2023-08-31,2023-08-31
+248,27.71,The product is a crowd-pleaser,47.9,2,20.19,10,90,533 Jenifer Circle,2023-08-14,2023-08-14
+249,19.06,Would recommend to friends and family,48.73,5,29.67,16,10,98 1st Circle,2023-05-07,2023-05-07
+250,17.92,Will definitely buy again,45.43,5,27.51,13,69,60092 Dexter Road,2023-02-04,2023-02-04
+251,15.86,The product broke after a few uses,42.63,1,26.77,10,84,0209 Daystar Point,2023-07-21,2023-07-21
+252,25.16,The product is a head-turner,35.12,5,9.96,14,22,9235 3rd Plaza,2023-02-21,2023-02-21
+253,12.84,The product is exactly as described,49.7,2,36.86,10,70,350 Drewry Park,2023-01-26,2023-01-26
+254,21.9,The product is a mood-booster,50.53,2,28.63,13,7,244 Grim Circle,2023-06-08,2023-06-08
+255,20.01,The product broke after a few uses,37.63,1,17.62,12,45,0897 Blackbird Avenue,2023-02-15,2023-02-15
+256,12.54,Would buy from this seller again,43.15,4,30.61,9,6,2 Pine View Junction,2023-05-11,2023-05-11
+257,19.47,The color is not as shown in the picture,35.65,5,16.18,8,46,52637 Leroy Pass,2023-10-23,2023-10-23
+258,28.12,The product is a must-have for every home,47.17,3,19.05,15,53,3825 Hoard Terrace,2023-05-12,2023-05-12
+259,18.32,The product is difficult to assemble,58.82,5,40.5,13,36,26 Mallard Circle,2023-05-23,2023-05-23
+260,18.6,The product is a conversation-starter,32.33,2,13.73,15,39,998 Waxwing Place,2023-08-15,2023-08-15
+261,15.37,The product is a lifesaver,32.23,2,16.86,16,81,3554 Onsgard Court,2023-10-26,2023-10-26
+262,24.42,The product is a game-changer,37.0,4,12.58,11,51,82933 Charing Cross Plaza,2023-02-09,2023-02-09
+263,28.8,The product is easy to use,45.3,4,16.5,11,47,32701 Redwing Way,2023-05-26,2023-05-26
+264,21.2,The product is not durable,30.64,1,9.44,10,100,585 Lyons Place,2023-09-15,2023-09-15
+265,26.74,Excellent customer service,46.08,3,19.34,8,12,4573 Algoma Circle,2023-05-22,2023-05-22
+266,12.91,Very satisfied with my purchase,58.96,3,46.05,14,90,85 Towne Drive,2023-08-27,2023-08-27
+267,10.32,Very happy with my purchase,39.84,1,29.52,12,32,87 Fair Oaks Plaza,2023-01-12,2023-01-12
+268,16.56,The product is a game-changer,38.98,4,22.42,14,60,79 West Lane,2023-03-14,2023-03-14
+269,25.13,Product arrived earlier than expected,54.65,5,29.52,12,42,2684 Oriole Trail,2023-02-07,2023-02-07
+270,16.04,The product is a conversation-starter,54.99,3,38.95,13,49,7 Eliot Crossing,2023-01-10,2023-01-10
+271,15.16,Very happy with my purchase,47.6,2,32.44,12,11,47 Charing Cross Lane,2023-04-06,2023-04-06
+272,13.39,The product is a must-have for every home,50.37,2,36.98,13,41,585 Maywood Point,2023-01-02,2023-01-02
+273,19.8,Would buy from this seller again,57.65,2,37.85,11,77,491 Fisk Lane,2023-06-07,2023-06-07
+274,30.0,The product is stylish and trendy,32.5,5,2.5,16,68,0454 Laurel Court,2023-08-10,2023-08-10
+275,14.4,The product is exactly as described,40.11,3,25.71,13,54,003 Bunting Hill,2023-01-25,2023-01-25
+276,28.42,Very disappointed with this purchase,39.86,3,11.44,10,92,3 Montana Circle,2023-07-20,2023-07-20
+277,13.05,The product broke after a few uses,33.52,5,20.47,10,16,71 Kim Trail,2023-03-20,2023-03-20
+278,11.8,I love this product so much,47.44,2,35.64,15,93,9 Randy Park,2023-02-24,2023-02-24
+279,23.64,The product is a must-have for every home,35.59,1,11.95,16,98,5 Stephen Pass,2023-09-15,2023-09-15
+280,20.24,The product is a show-stopper,43.72,5,23.48,11,32,98 Eastwood Point,2023-07-14,2023-07-14
+281,25.99,Very happy with my purchase,45.09,5,19.1,14,79,49 Dahle Road,2023-05-30,2023-05-30
+282,11.14,The product is a stress-reliever,57.88,1,46.74,11,63,7505 Cambridge Road,2023-11-23,2023-11-23
+283,19.84,The size runs small,50.98,5,31.14,16,100,47422 Haas Drive,2023-09-10,2023-09-10
+284,21.38,The color is not as shown in the picture,39.55,1,18.17,11,28,1747 Scofield Terrace,2023-06-30,2023-06-30
+285,17.76,The product is a head-turner,51.16,3,33.4,14,80,5 Ridgeview Street,2023-02-21,2023-02-21
+286,19.93,Very happy with my purchase,33.21,3,13.28,10,58,7 Spohn Hill,2023-01-13,2023-01-13
+287,15.62,great service,58.01,1,42.39,15,25,142 Pierstorff Plaza,2023-09-15,2023-09-15
+288,26.8,The size runs small,45.33,2,18.53,11,87,2 Service Drive,2023-06-08,2023-06-08
+289,15.8,The product is a great value for the price,55.69,5,39.89,15,65,57 Longview Crossing,2023-06-23,2023-06-23
+290,20.72,The size runs small,49.21,2,28.49,8,18,6481 Sauthoff Road,2023-08-23,2023-08-23
+291,29.64,The product is not durable,46.02,2,16.38,12,42,7 Acker Terrace,2023-12-03,2023-12-03
+292,29.52,The packaging was damaged,57.07,2,27.55,13,41,729 Hoffman Alley,2023-08-14,2023-08-14
+293,16.41,I love this product so much,59.01,1,42.6,15,95,17821 Farmco Point,2023-01-19,2023-01-19
+294,14.24,The product is a confidence-booster,51.58,5,37.34,13,30,9274 Westend Parkway,2023-12-18,2023-12-18
+295,10.47,The product is a mood-booster,35.74,3,25.27,8,71,5 Grover Place,2023-05-09,2023-05-09
+296,17.07,The size runs small,41.97,2,24.9,9,61,817 Hoepker Alley,2023-03-21,2023-03-21
+297,11.38,Very happy with my purchase,38.78,5,27.4,14,50,18011 Birchwood Place,2023-07-18,2023-07-18
+298,26.5,I love this product so much,55.41,2,28.91,9,97,50198 Kings Place,2023-05-26,2023-05-26
+299,11.19,The product is a crowd-pleaser,45.83,2,34.64,9,55,494 Pennsylvania Place,2023-11-07,2023-11-07
+300,13.95,The product is a head-turner,53.61,3,39.66,12,49,8731 Mesta Parkway,2023-03-26,2023-03-26
+301,23.21,The product is a head-turner,36.7,1,13.49,14,48,3334 Spenser Pass,2023-11-20,2023-11-20
+302,21.11,The product is difficult to assemble,40.03,3,18.92,9,73,2844 Menomonie Drive,2023-05-25,2023-05-25
+303,12.26,Excellent customer service,39.72,2,27.46,13,53,3107 Summit Park,2023-02-23,2023-02-23
+304,22.88,The product is a game-changer,33.13,5,10.25,8,70,1 Parkside Junction,2023-08-28,2023-08-28
+305,10.29,The product is difficult to assemble,48.54,1,38.25,14,4,8 Magdeline Avenue,2023-05-23,2023-05-23
+306,26.4,The product is versatile and can be used in many ways,46.09,3,19.69,10,22,0308 Golden Leaf Street,2023-07-31,2023-07-31
+307,24.99,The product is a party-starter,45.45,2,20.46,9,45,6506 Messerschmidt Pass,2023-04-11,2023-04-11
+308,17.62,The product is a show-stopper,54.71,4,37.09,8,31,04657 Reinke Parkway,2023-12-29,2023-12-29
+309,18.76,great service,39.02,5,20.26,12,89,12934 Russell Alley,2023-11-19,2023-11-19
+310,12.56,The product is versatile and can be used in many ways,53.74,2,41.18,15,75,0 International Way,2023-12-13,2023-12-13
+311,28.09,Not what I expected,49.81,3,21.72,15,49,260 Warrior Road,2023-04-27,2023-04-27
+312,21.89,The price is too high for the quality,57.34,3,35.45,15,28,23890 Lake View Place,2023-03-17,2023-03-17
+313,11.76,The product is a mood-booster,47.85,4,36.09,13,63,65094 Oneill Pass,2023-09-07,2023-09-07
+314,15.21,The product is a confidence-booster,36.68,2,21.47,14,80,1576 American Court,2023-10-26,2023-10-26
+315,20.88,Not what I expected,50.37,2,29.49,8,67,9 Autumn Leaf Crossing,2023-04-22,2023-04-22
+316,24.18,The material is very soft and comfortable,45.88,5,21.7,10,47,44 Melvin Pass,2023-05-19,2023-05-19
+317,10.36,Product arrived earlier than expected,49.2,1,38.84,10,87,20391 Merchant Court,2023-11-23,2023-11-23
+318,12.49,The product is a game-changer,43.08,5,30.59,15,72,8 Grim Circle,2023-11-23,2023-11-23
+319,23.23,Product arrived earlier than expected,33.05,1,9.82,13,35,8 Saint Paul Junction,2023-10-26,2023-10-26
+320,13.71,Very satisfied with my purchase,47.87,5,34.16,13,33,708 Bowman Trail,2023-09-15,2023-09-15
+321,21.84,Would buy from this seller again,51.41,5,29.57,8,26,4732 Fordem Lane,2023-07-12,2023-07-12
+322,23.43,The size runs small,47.89,4,24.46,8,5,0 Anzinger Point,2023-01-26,2023-01-26
+323,26.31,Not worth the money,48.18,1,21.87,9,11,260 Waubesa Park,2023-11-23,2023-11-23
+324,12.63,The product is a great gift idea,55.94,2,43.31,12,76,8609 Graedel Junction,2023-02-27,2023-02-27
+325,27.22,The product is perfect for my needs,31.47,4,4.25,12,51,90 Vernon Trail,2023-05-09,2023-05-09
+326,16.78,The product is a conversation-starter,40.19,2,23.41,15,91,89429 Eagle Crest Way,2023-07-22,2023-07-22
+327,20.69,The price is too high for the quality,41.97,5,21.28,11,58,835 Nevada Avenue,2023-09-05,2023-09-05
+328,19.65,The product is not durable,44.01,3,24.36,14,97,4 3rd Place,2023-10-24,2023-10-24
+329,12.95,order a size up,47.12,2,34.17,11,34,73954 Macpherson Point,2023-06-18,2023-06-18
+330,16.78,Fast shipping,55.34,2,38.56,12,65,78568 La Follette Alley,2023-12-11,2023-12-11
+331,11.92,The product is difficult to assemble,51.05,2,39.13,15,88,176 Stone Corner Plaza,2023-10-20,2023-10-20
+332,22.63,I love this product so much,53.92,3,31.29,15,59,2095 5th Street,2023-03-31,2023-03-31
+333,25.77,The product is exactly as described,51.06,4,25.29,11,38,1 Lake View Park,2023-09-07,2023-09-07
+334,28.0,Product arrived earlier than expected,44.89,4,16.89,13,3,8 Brown Plaza,2023-04-27,2023-04-27
+335,19.1,great service,42.59,1,23.49,14,84,1307 Gulseth Junction,2023-06-14,2023-06-14
+336,13.9,The product is perfect for my needs,35.66,5,21.76,16,74,87360 Green Junction,2023-03-06,2023-03-06
+337,22.87,The product is a stress-reliever,44.82,1,21.95,11,60,20240 Spohn Street,2023-11-30,2023-11-30
+338,23.31,The product is a crowd-pleaser,32.72,4,9.41,13,93,7319 Lukken Place,2023-11-01,2023-11-01
+339,18.75,Would buy from this seller again,35.89,2,17.14,8,44,7599 Washington Circle,2023-08-03,2023-08-03
+340,29.93,The product is perfect for my needs,33.33,2,3.4,11,53,80 Maple Road,2023-04-22,2023-04-22
+341,21.89,The product is difficult to assemble,33.65,3,11.76,8,95,9036 Kennedy Way,2023-02-16,2023-02-16
+342,14.71,Fast shipping,36.06,3,21.35,15,48,75 Mallard Hill,2023-11-15,2023-11-15
+343,24.39,Would buy from this seller again,56.29,1,31.9,11,90,6217 Anhalt Court,2023-10-21,2023-10-21
+344,29.0,I love this product so much,50.4,4,21.4,10,5,7 Welch Pass,2023-03-04,2023-03-04
+345,21.1,The size runs small,48.39,3,27.29,9,62,3 Rutledge Point,2023-08-12,2023-08-12
+346,13.32,The product is a crowd-pleaser,47.96,4,34.64,14,28,9 Spohn Hill,2023-10-05,2023-10-05
+347,27.17,The product is easy to use,46.21,3,19.04,9,13,895 Dunning Court,2023-12-27,2023-12-27
+348,20.21,The product is a confidence-booster,45.9,4,25.69,11,64,80 Kenwood Road,2023-02-16,2023-02-16
+349,11.24,The product is a great value for the price,56.69,4,45.45,10,97,01515 Homewood Way,2023-03-29,2023-03-29
+350,15.09,The product is a show-stopper,34.16,2,19.07,15,23,84 Fisk Center,2023-12-11,2023-12-11
+351,28.5,The product is a game-changer,42.09,2,13.59,15,52,42450 Dexter Circle,2023-06-15,2023-06-15
+352,22.4,The product is a must-have for every home,50.89,5,28.49,15,87,17653 Comanche Terrace,2023-06-04,2023-06-04
+353,17.9,Excellent customer service,44.51,2,26.61,10,11,439 Fremont Way,2023-06-19,2023-06-19
+354,21.49,order a size up,36.45,1,14.96,16,7,5269 Eastlawn Court,2023-02-10,2023-02-10
+355,22.17,The product broke after a few uses,52.58,2,30.41,12,40,7317 Homewood Way,2023-11-08,2023-11-08
+356,13.84,The product is not durable,37.39,2,23.55,16,60,705 Mallard Road,2023-11-17,2023-11-17
+357,12.22,The material is very soft and comfortable,30.15,2,17.93,16,36,4101 Bluestem Court,2023-04-02,2023-04-02
+358,23.94,The product is a great value for the price,32.59,5,8.65,16,92,93033 Leroy Parkway,2023-03-29,2023-03-29
+359,20.77,The product is difficult to assemble,42.91,5,22.14,9,19,2556 La Follette Street,2023-05-23,2023-05-23
+360,14.38,The product is a party-starter,31.92,2,17.54,16,77,3 Cardinal Avenue,2023-03-12,2023-03-12
+361,15.39,The product is stylish and trendy,34.55,3,19.16,11,99,9290 Hanson Plaza,2023-06-18,2023-06-18
+362,22.44,I love this product so much,30.37,2,7.93,8,49,4 Pankratz Crossing,2023-04-27,2023-04-27
+363,18.41,The product is a head-turner,41.18,3,22.77,11,76,78422 Brown Road,2023-06-26,2023-06-26
+364,13.24,The color is not as shown in the picture,52.36,5,39.12,10,78,84471 Blackbird Crossing,2023-03-30,2023-03-30
+365,27.33,The product is a great gift idea,30.86,2,3.53,13,63,97 Claremont Pass,2023-06-21,2023-06-21
+366,20.51,The product is a show-stopper,49.07,1,28.56,9,71,2 Truax Place,2023-10-02,2023-10-02
+367,20.52,The price is too high for the quality,58.76,4,38.24,9,6,3 Blaine Center,2023-06-29,2023-06-29
+368,10.0,The product is a crowd-pleaser,43.35,2,33.35,12,85,31 Comanche Way,2023-10-23,2023-10-23
+369,14.9,The product is a party-starter,42.0,2,27.1,16,68,03873 Burning Wood Avenue,2023-05-03,2023-05-03
+370,28.24,The product is difficult to assemble,38.1,4,9.86,9,32,471 Crescent Oaks Avenue,2023-09-27,2023-09-27
+371,18.34,The product is a show-stopper,43.73,5,25.39,15,45,7 Mifflin Pass,2023-05-09,2023-05-09
+372,12.08,The product is exactly as described,59.37,1,47.29,15,33,20 Grasskamp Pass,2023-06-25,2023-06-25
+373,12.38,The product is a show-stopper,34.67,4,22.29,14,16,6 Bashford Avenue,2023-04-27,2023-04-27
+374,19.75,The product is exactly as described,41.7,4,21.95,11,96,41 Vera Avenue,2023-08-17,2023-08-17
+375,14.56,The product is a time-saver,35.58,2,21.02,15,36,005 Sycamore Hill,2023-11-22,2023-11-22
+376,25.5,Very happy with my purchase,54.04,5,28.54,9,73,260 Glendale Place,2023-03-23,2023-03-23
+377,19.06,Great quality,52.44,1,33.38,8,78,571 Carberry Park,2023-05-17,2023-05-17
+378,12.94,Excellent customer service,55.61,4,42.67,11,19,79664 Independence Road,2023-03-24,2023-03-24
+379,17.28,The product is a space-saver,35.95,1,18.67,14,85,7015 Gina Point,2023-03-17,2023-03-17
+380,23.37,The product is a stress-reliever,52.15,5,28.78,12,99,3 Surrey Park,2023-03-24,2023-03-24
+381,14.43,The product is a must-have for every home,35.98,2,21.55,16,14,076 Vermont Junction,2023-12-30,2023-12-30
+382,19.23,The product broke after a few uses,34.77,2,15.54,12,95,04 Golf Alley,2023-09-03,2023-09-03
+383,15.06,The size runs small,57.75,3,42.69,12,26,4 Spaight Alley,2023-10-16,2023-10-16
+384,10.29,The product is difficult to assemble,30.98,5,20.69,11,100,7 Colorado Junction,2023-10-09,2023-10-09
+385,24.63,The product is a confidence-booster,44.74,1,20.11,14,48,506 Laurel Park,2023-10-08,2023-10-08
+386,10.57,The product is a great value for the price,59.3,1,48.73,10,57,5588 Holmberg Junction,2023-10-15,2023-10-15
+387,16.65,great service,46.5,1,29.85,12,92,37 Delaware Pass,2023-09-06,2023-09-06
+388,14.68,The product is a crowd-pleaser,38.93,4,24.25,12,27,0653 David Terrace,2023-10-30,2023-10-30
+389,22.3,Fast shipping,32.95,5,10.65,14,82,7 Buena Vista Hill,2023-12-01,2023-12-01
+390,21.45,The product is a game-changer,43.56,1,22.11,12,67,8388 Sutherland Hill,2023-11-14,2023-11-14
+391,21.13,Great quality,47.78,4,26.65,10,61,909 Anthes Avenue,2023-11-15,2023-11-15
+392,10.08,Not worth the money,41.05,2,30.97,14,24,462 Maple Wood Hill,2023-01-16,2023-01-16
+393,12.96,Great quality,55.5,1,42.54,15,47,9 Morning Avenue,2023-12-13,2023-12-13
+394,19.4,The product is a lifesaver,45.93,3,26.53,9,62,1513 Ronald Regan Plaza,2023-02-27,2023-02-27
+395,13.67,Very happy with my purchase,53.14,1,39.47,9,22,543 Oak Terrace,2023-11-05,2023-11-05
+396,22.24,The product is not durable,52.01,5,29.77,8,46,158 Lukken Junction,2023-05-29,2023-05-29
+397,29.69,The product is a great gift idea,41.85,5,12.16,8,42,07947 Lien Road,2023-06-10,2023-06-10
+398,28.86,The product is exactly as described,52.97,4,24.11,15,8,38 Vernon Alley,2023-08-26,2023-08-26
+399,29.28,Very disappointed with this purchase,54.56,5,25.28,13,1,69472 Graedel Hill,2023-11-17,2023-11-17
+400,28.9,The product is a show-stopper,46.94,3,18.04,12,98,8 Annamark Way,2023-04-24,2023-04-24
+401,22.45,The product is difficult to assemble,31.09,2,8.64,13,77,90 American Ash Crossing,2023-02-24,2023-02-24
+402,23.08,The product is easy to use,48.77,2,25.69,12,88,0877 Lighthouse Bay Lane,2023-03-11,2023-03-11
+403,22.5,The product exceeded my expectations,46.93,5,24.43,10,49,6993 Harper Place,2023-10-23,2023-10-23
+404,27.41,Product arrived earlier than expected,36.23,1,8.82,8,61,0 Pankratz Parkway,2023-08-06,2023-08-06
+405,24.27,Not what I expected,55.17,5,30.9,13,28,861 Kropf Circle,2023-03-05,2023-03-05
+406,15.59,Highly recommend this product,41.5,5,25.91,12,39,2 Banding Lane,2023-12-11,2023-12-11
+407,17.73,Excellent customer service,55.9,3,38.17,14,33,4203 Vernon Crossing,2023-08-01,2023-08-01
+408,29.74,The product is a show-stopper,30.99,3,1.25,15,77,8 Cambridge Terrace,2023-05-24,2023-05-24
+409,28.77,The product is a show-stopper,40.48,5,11.71,10,8,0 Schlimgen Circle,2023-04-22,2023-04-22
+410,13.05,The price is too high for the quality,52.83,3,39.78,10,45,93491 Claremont Place,2023-03-20,2023-03-20
+411,16.55,Great quality,55.61,3,39.06,14,7,91691 Eagle Crest Court,2023-01-25,2023-01-25
+412,20.05,The product is a great gift idea,36.32,3,16.27,8,96,6 Delaware Drive,2023-09-01,2023-09-01
+413,22.33,The product is a lifesaver,41.39,4,19.06,15,93,74 1st Point,2023-06-20,2023-06-20
+414,28.66,The product is a head-turner,54.31,4,25.65,10,14,99908 Menomonie Center,2023-10-08,2023-10-08
+415,27.07,The product is a lifesaver,31.03,5,3.96,13,44,3912 Sunfield Trail,2023-08-13,2023-08-13
+416,24.79,The product is a great value for the price,51.59,1,26.8,12,86,0139 Buena Vista Point,2023-05-29,2023-05-29
+417,25.92,Excellent customer service,42.24,4,16.32,16,59,8 Eagan Terrace,2023-04-06,2023-04-06
+418,17.1,The color is not as shown in the picture,54.62,5,37.52,11,76,79 International Park,2023-09-28,2023-09-28
+419,13.11,The material is very soft and comfortable,46.13,5,33.02,8,80,4 Veith Terrace,2023-08-28,2023-08-28
+420,21.99,order a size up,43.6,4,21.61,12,73,19797 Westerfield Circle,2023-10-07,2023-10-07
+421,14.67,The material is very soft and comfortable,42.65,4,27.98,15,90,0545 Loeprich Place,2023-08-25,2023-08-25
+422,24.66,Excellent customer service,38.04,1,13.38,8,98,74962 Anderson Lane,2023-06-28,2023-06-28
+423,27.29,The product is a lifesaver,40.98,5,13.69,12,69,77 Quincy Alley,2023-06-16,2023-06-16
+424,23.84,Will definitely buy again,56.83,5,32.99,9,66,99 Evergreen Parkway,2023-11-08,2023-11-08
+425,18.24,The product is a confidence-booster,32.18,3,13.94,12,17,542 Donald Court,2023-09-06,2023-09-06
+426,10.7,The product is stylish and trendy,30.47,3,19.77,12,11,92 Nobel Trail,2023-10-22,2023-10-22
+427,27.25,The product is a money-saver,50.12,4,22.87,13,22,8121 Kings Alley,2023-12-24,2023-12-24
+428,16.24,The product is a great gift idea,39.1,2,22.86,15,65,06 Clyde Gallagher Park,2023-09-20,2023-09-20
+429,22.72,The packaging was damaged,35.28,1,12.56,11,25,4915 Carey Hill,2023-02-02,2023-02-02
+430,20.3,Would buy from this seller again,32.52,3,12.22,9,48,166 Londonderry Crossing,2023-12-27,2023-12-27
+431,18.47,The product is a conversation-starter,59.3,2,40.83,15,29,6 Waywood Point,2023-04-02,2023-04-02
+432,22.57,The product is a great gift idea,32.58,3,10.01,14,75,095 Harbort Avenue,2023-11-20,2023-11-20
+433,15.02,great service,51.93,2,36.91,9,74,1 Jackson Crossing,2023-12-12,2023-12-12
+434,15.15,The product is a game-changer,33.1,4,17.95,16,99,7977 Montana Alley,2023-01-01,2023-01-01
+435,27.95,Very happy with my purchase,41.68,1,13.73,8,45,28 Delladonna Hill,2023-03-30,2023-03-30
+436,29.9,great service,50.15,1,20.25,13,81,8 Vera Lane,2023-09-03,2023-09-03
+437,16.2,The product is easy to use,40.82,1,24.62,12,21,63361 Northwestern Drive,2023-07-27,2023-07-27
+438,20.82,The product broke after a few uses,46.51,4,25.69,16,67,87825 Merry Terrace,2023-11-13,2023-11-13
+439,14.29,Great quality,59.77,4,45.48,14,40,5530 Caliangt Crossing,2023-05-21,2023-05-21
+440,23.11,The product is a time-saver,44.38,4,21.27,11,82,83 Colorado Way,2023-09-22,2023-09-22
+441,11.24,Fast shipping,56.51,3,45.27,14,30,2396 Iowa Court,2023-04-10,2023-04-10
+442,25.35,The product is a game-changer,31.75,4,6.4,14,2,18 Oxford Drive,2023-07-31,2023-07-31
+443,20.73,The product is difficult to assemble,52.95,1,32.22,10,39,377 Eagle Crest Crossing,2023-10-08,2023-10-08
+444,25.29,The product is easy to use,38.16,4,12.87,9,58,359 Continental Pass,2023-01-12,2023-01-12
+445,14.74,The product is a game-changer,49.24,1,34.5,16,20,43398 Declaration Pass,2023-09-18,2023-09-18
+446,26.11,The product is a game-changer,49.05,4,22.94,14,83,7910 Stoughton Center,2023-02-18,2023-02-18
+447,29.76,The product is stylish and trendy,48.63,2,18.87,13,10,2781 Orin Parkway,2023-09-18,2023-09-18
+448,19.41,Fast shipping,53.62,2,34.21,10,84,204 Springview Trail,2023-08-09,2023-08-09
+449,16.94,I love this product so much,50.05,3,33.11,12,61,16024 Marquette Circle,2023-09-08,2023-09-08
+450,14.13,The product is a game-changer,46.18,4,32.05,13,80,18 Charing Cross Court,2023-05-07,2023-05-07
+451,28.87,The product is stylish and trendy,45.05,4,16.18,14,93,29230 Jenifer Road,2023-07-18,2023-07-18
+452,29.08,Very disappointed with this purchase,59.35,4,30.27,11,42,99034 Ridgeview Lane,2023-04-03,2023-04-03
+453,27.82,The product is a confidence-booster,46.45,4,18.63,9,90,440 Stephen Drive,2023-03-05,2023-03-05
+454,24.31,The product exceeded my expectations,51.96,5,27.65,11,49,7 Northfield Way,2023-10-08,2023-10-08
+455,16.6,The material is very soft and comfortable,44.56,1,27.96,10,5,489 Oxford Road,2023-07-28,2023-07-28
+456,13.55,The product is a great value for the price,34.62,4,21.07,14,1,73080 Ronald Regan Court,2023-11-04,2023-11-04
+457,29.03,The color is not as shown in the picture,40.9,4,11.87,12,8,09576 Montana Trail,2023-06-09,2023-06-09
+458,11.8,The product is a mood-booster,41.41,2,29.61,10,4,26 Goodland Pass,2023-05-05,2023-05-05
+459,23.97,This product is amazing!,51.13,3,27.16,14,15,45 Longview Hill,2023-07-08,2023-07-08
+460,23.92,The product is perfect for my needs,56.32,1,32.4,9,13,93 Reinke Pass,2023-02-02,2023-02-02
+461,16.38,The packaging was damaged,47.68,1,31.3,9,77,07 Mendota Hill,2023-05-15,2023-05-15
+462,27.72,The product is a show-stopper,51.5,5,23.78,8,14,217 Evergreen Pass,2023-10-28,2023-10-28
+463,29.19,The product is a game-changer,59.05,5,29.86,9,79,6907 Darwin Lane,2023-05-08,2023-05-08
+464,12.49,order a size up,33.44,4,20.95,11,23,18 Spaight Hill,2023-03-25,2023-03-25
+465,26.77,Very happy with my purchase,36.53,2,9.76,16,72,94393 Dapin Drive,2023-09-05,2023-09-05
+466,23.3,The product is a great value for the price,41.08,4,17.78,8,28,06 Texas Street,2023-11-10,2023-11-10
+467,29.14,I love this product so much,40.9,3,11.76,10,15,019 Farwell Circle,2023-02-18,2023-02-18
+468,25.01,The product is versatile and can be used in many ways,51.39,2,26.38,15,5,1037 Aberg Hill,2023-08-25,2023-08-25
+469,20.36,The product is versatile and can be used in many ways,48.07,3,27.71,8,46,449 Manufacturers Road,2023-02-17,2023-02-17
+470,18.11,Not what I expected,35.99,2,17.88,9,94,7 Holy Cross Park,2023-08-02,2023-08-02
+471,23.25,The product is perfect for my needs,54.19,4,30.94,8,67,7 Gina Place,2023-09-30,2023-09-30
+472,15.88,The product is a great gift idea,45.99,5,30.11,12,59,077 Londonderry Plaza,2023-08-23,2023-08-23
+473,21.87,The material is very soft and comfortable,41.31,2,19.44,9,55,77 6th Drive,2023-08-16,2023-08-16
+474,26.36,The product is exactly as described,35.16,1,8.8,11,2,07 Old Gate Hill,2023-11-24,2023-11-24
+475,19.16,The product is easy to use,37.6,4,18.44,11,54,6188 Monument Center,2023-04-10,2023-04-10
+476,18.4,The product exceeded my expectations,56.73,5,38.33,8,73,66408 Gina Center,2023-03-25,2023-03-25
+477,24.54,The product is a game-changer,33.14,1,8.6,13,34,987 Miller Circle,2023-11-12,2023-11-12
+478,21.7,The product is perfect for my needs,43.27,5,21.57,10,39,07601 Mayfield Crossing,2023-03-12,2023-03-12
+479,26.23,The product is a stress-reliever,50.01,2,23.78,14,72,336 Anhalt Junction,2023-03-20,2023-03-20
+480,26.21,The product broke after a few uses,39.29,1,13.08,15,9,651 6th Crossing,2023-04-18,2023-04-18
+481,27.9,The product is perfect for my needs,47.77,2,19.87,13,64,57 Marcy Trail,2023-03-07,2023-03-07
+482,10.64,great service,30.02,3,19.38,12,42,12 Farmco Center,2023-10-01,2023-10-01
+483,14.2,I love this product so much,50.88,5,36.68,9,92,30679 Maywood Circle,2023-06-06,2023-06-06
+484,26.79,The product is a great gift idea,50.25,4,23.46,16,22,35692 Sauthoff Court,2023-07-12,2023-07-12
+485,27.74,Fast shipping,39.89,2,12.15,13,75,38 Lawn Street,2023-12-04,2023-12-04
+486,15.1,Would recommend to friends and family,41.87,4,26.77,9,93,3119 Schmedeman Avenue,2023-04-10,2023-04-10
+487,20.15,The product is a great value for the price,50.77,3,30.62,8,56,9 Acker Pass,2023-07-31,2023-07-31
+488,29.87,Will definitely buy again,32.17,4,2.3,11,1,669 Calypso Junction,2023-06-01,2023-06-01
+489,27.11,The product is exactly as described,32.91,5,5.8,9,43,6831 Tennessee Place,2023-02-09,2023-02-09
+490,12.85,The product exceeded my expectations,41.0,1,28.15,14,8,9 Scofield Point,2023-03-29,2023-03-29
+491,27.73,The product is a party-starter,48.01,3,20.28,8,78,16 Lukken Way,2023-08-07,2023-08-07
+492,29.37,The product is a must-have for every home,53.49,2,24.12,12,95,65278 Michigan Park,2023-08-09,2023-08-09
+493,23.52,I love this product so much,38.7,5,15.18,13,83,243 Rieder Terrace,2023-12-22,2023-12-22
+494,17.35,The product is a party-starter,44.68,5,27.33,10,74,8487 Blaine Junction,2023-01-31,2023-01-31
+495,24.35,The product is a show-stopper,59.01,5,34.66,12,17,8 Emmet Trail,2023-10-03,2023-10-03
+496,16.87,This product is amazing!,31.07,3,14.2,16,97,363 Union Pass,2023-09-07,2023-09-07
+497,18.94,The price is too high for the quality,55.29,4,36.35,12,79,92503 Cordelia Street,2023-09-18,2023-09-18
+498,14.73,Very disappointed with this purchase,50.42,4,35.69,11,33,35 6th Avenue,2023-10-28,2023-10-28
+499,25.21,The product is a party-starter,33.54,1,8.33,16,90,8 Gateway Parkway,2023-08-12,2023-08-12
+500,20.97,This product is amazing!,30.77,1,9.8,13,77,3 Fremont Park,2023-08-15,2023-08-15
+501,12.86,Fast shipping,41.14,3,28.28,9,100,62964 Morningstar Court,2023-06-24,2023-06-24
+502,13.08,The product is a show-stopper,55.49,2,42.41,8,47,45 Blue Bill Park Road,2023-02-28,2023-02-28
+503,25.62,Very satisfied with my purchase,43.14,1,17.52,9,57,2 Grasskamp Hill,2023-07-24,2023-07-24
+504,28.01,Fast shipping,47.55,1,19.54,16,2,4 Scofield Alley,2023-08-13,2023-08-13
+505,26.84,The product is a head-turner,38.11,2,11.27,13,56,02 Morning Drive,2023-10-04,2023-10-04
+506,12.54,Would buy from this seller again,53.97,4,41.43,12,62,89563 Gateway Pass,2023-04-29,2023-04-29
+507,29.87,Fast shipping,52.27,5,22.4,11,93,692 Comanche Trail,2023-02-03,2023-02-03
+508,22.95,The product is exactly as described,38.74,4,15.79,15,76,7 Hovde Avenue,2023-05-06,2023-05-06
+509,29.9,Will definitely buy again,52.09,3,22.19,10,22,10816 Aberg Drive,2023-02-20,2023-02-20
+510,20.21,The product is a lifesaver,55.3,3,35.09,14,72,68383 Almo Pass,2023-11-09,2023-11-09
+511,28.41,The product is lightweight and easy to carry,58.8,2,30.39,12,63,4562 Forster Lane,2023-10-18,2023-10-18
+512,15.97,The color is not as shown in the picture,42.23,5,26.26,13,44,93 Hayes Way,2023-12-21,2023-12-21
+513,25.43,Excellent customer service,50.35,1,24.92,16,49,3895 Express Hill,2023-09-22,2023-09-22
+514,13.35,The product is versatile and can be used in many ways,41.21,4,27.86,9,82,78 Eastwood Crossing,2023-02-12,2023-02-12
+515,13.4,The product is exactly as described,54.15,1,40.75,12,71,88617 Cherokee Crossing,2023-02-17,2023-02-17
+516,16.51,The product is easy to use,57.68,3,41.17,12,81,23 Eliot Terrace,2023-05-26,2023-05-26
+517,28.25,The product is difficult to assemble,52.22,1,23.97,13,21,112 Cherokee Way,2023-07-30,2023-07-30
+518,26.54,The product is a head-turner,57.58,5,31.04,14,46,79922 American Ash Way,2023-11-12,2023-11-12
+519,13.0,The product is a conversation-starter,54.76,1,41.76,12,92,27982 Fairview Drive,2023-06-04,2023-06-04
+520,18.34,Product arrived earlier than expected,34.93,2,16.59,12,27,2856 Kinsman Lane,2023-06-15,2023-06-15
+521,23.36,Would buy from this seller again,40.6,4,17.24,10,45,176 Twin Pines Trail,2023-08-27,2023-08-27
+522,29.78,The product exceeded my expectations,58.03,4,28.25,10,34,7 Dawn Hill,2023-04-20,2023-04-20
+523,29.5,The product is a confidence-booster,36.5,1,7.0,9,23,6 Mcguire Point,2023-04-22,2023-04-22
+524,19.31,The packaging was damaged,31.06,2,11.75,13,74,9990 Lakeland Alley,2023-07-20,2023-07-20
+525,23.35,The product is a game-changer,44.52,2,21.17,16,55,9396 Schlimgen Parkway,2023-02-22,2023-02-22
+526,14.9,The price is too high for the quality,55.32,1,40.42,16,60,486 Park Meadow Circle,2023-05-10,2023-05-10
+527,27.91,The color is not as shown in the picture,58.73,5,30.82,16,19,369 Rowland Center,2023-05-20,2023-05-20
+528,13.2,The product is a must-have for every home,56.45,1,43.25,10,61,06 Rockefeller Park,2023-09-04,2023-09-04
+529,29.93,The product is a head-turner,34.07,5,4.14,8,78,79 Scoville Park,2023-11-29,2023-11-29
+530,25.62,The product is a must-have for every home,57.03,4,31.41,13,95,94 Derek Circle,2023-08-11,2023-08-11
+531,10.02,Not what I expected,30.55,5,20.53,9,37,16016 Commercial Road,2023-11-07,2023-11-07
+532,17.36,The product is stylish and trendy,50.61,5,33.25,9,38,98340 Alpine Street,2023-12-03,2023-12-03
+533,11.62,Great quality,48.38,5,36.76,12,49,97 5th Pass,2023-03-22,2023-03-22
+534,27.1,Not what I expected,45.51,4,18.41,11,30,24432 David Court,2023-08-23,2023-08-23
+535,29.13,The material is very soft and comfortable,40.67,2,11.54,12,14,72274 Iowa Terrace,2023-08-05,2023-08-05
+536,25.66,The color is not as shown in the picture,49.06,4,23.4,12,67,784 Randy Center,2023-01-13,2023-01-13
+537,20.57,The product is a crowd-pleaser,56.82,3,36.25,12,82,31117 Elka Terrace,2023-08-19,2023-08-19
+538,23.27,The product is a great value for the price,33.45,3,10.18,13,45,156 Hayes Circle,2023-09-01,2023-09-01
+539,29.65,The product is a time-saver,43.91,2,14.26,14,53,334 4th Road,2023-06-01,2023-06-01
+540,13.29,Very satisfied with my purchase,31.72,5,18.43,14,88,322 Roxbury Terrace,2023-07-22,2023-07-22
+541,21.38,The product is not durable,47.85,1,26.47,10,79,775 Longview Lane,2023-11-21,2023-11-21
+542,15.05,The product is a mood-booster,32.78,5,17.73,12,17,5122 Service Pass,2023-02-07,2023-02-07
+543,21.95,Product arrived earlier than expected,31.76,1,9.81,11,31,1195 Packers Drive,2023-06-23,2023-06-23
+544,27.38,The product is a head-turner,37.02,1,9.64,11,68,8 Hoard Plaza,2023-07-02,2023-07-02
+545,18.27,The product is a game-changer,54.81,3,36.54,12,20,10428 Anthes Pass,2023-10-20,2023-10-20
+546,29.34,Very satisfied with my purchase,49.74,1,20.4,9,69,87051 Menomonie Crossing,2023-03-07,2023-03-07
+547,12.32,Not worth the money,57.66,3,45.34,14,99,11094 Forest Run Center,2023-04-18,2023-04-18
+548,29.74,The product is a money-saver,40.84,2,11.1,11,7,613 Dakota Circle,2023-10-27,2023-10-27
+549,19.74,great service,53.5,2,33.76,12,70,8 Monument Way,2023-11-11,2023-11-11
+550,27.56,The size runs small,41.05,4,13.49,14,13,494 Rieder Plaza,2023-06-19,2023-06-19
+551,23.38,This product is amazing!,47.09,4,23.71,8,100,5 Manley Center,2023-01-15,2023-01-15
+552,15.99,The product is a confidence-booster,40.76,2,24.77,11,85,9390 Marquette Hill,2023-08-08,2023-08-08
+553,16.01,This product is amazing!,32.62,2,16.61,12,97,055 Tennessee Street,2023-11-29,2023-11-29
+554,12.76,Great quality,36.27,4,23.51,12,10,96230 Hanson Plaza,2023-11-17,2023-11-17
+555,10.93,The product is a stress-reliever,38.41,5,27.48,11,93,568 Karstens Trail,2023-02-28,2023-02-28
+556,13.2,The product is a stress-reliever,30.57,4,17.37,9,29,16171 Express Lane,2023-03-29,2023-03-29
+557,25.68,The product is a mood-booster,52.11,4,26.43,11,98,58 Lyons Point,2023-02-19,2023-02-19
+558,13.33,Product arrived earlier than expected,36.43,4,23.1,13,56,97 Novick Parkway,2023-10-06,2023-10-06
+559,15.48,The product is a stress-reliever,38.25,1,22.77,10,61,949 Glendale Junction,2023-08-10,2023-08-10
+560,20.66,The product is a lifesaver,56.0,2,35.34,14,59,1 Heath Way,2023-09-27,2023-09-27
+561,28.24,Will definitely buy again,50.77,5,22.53,9,27,9 Everett Crossing,2023-04-08,2023-04-08
+562,22.13,The product exceeded my expectations,52.09,2,29.96,8,38,056 Upham Junction,2023-07-18,2023-07-18
+563,14.67,The product is a must-have for every home,46.67,1,32.0,13,92,248 Hovde Plaza,2023-10-01,2023-10-01
+564,14.41,The product is a mood-booster,43.59,3,29.18,12,72,49 Continental Crossing,2023-06-22,2023-06-22
+565,24.27,Fast shipping,33.79,4,9.52,14,82,218 Springview Lane,2023-10-17,2023-10-17
+566,21.64,The product is a game-changer,50.36,5,28.72,14,5,68 Ridgeview Parkway,2023-07-16,2023-07-16
+567,15.65,The product is stylish and trendy,37.27,2,21.62,12,48,21 Parkside Alley,2023-04-13,2023-04-13
+568,29.3,The product is difficult to assemble,56.92,4,27.62,12,44,84 Amoth Hill,2023-01-10,2023-01-10
+569,28.11,The product is a lifesaver,54.74,3,26.63,11,49,32499 Hooker Alley,2023-09-08,2023-09-08
+570,19.36,Not worth the money,48.83,1,29.47,10,39,49936 American Ash Point,2023-06-22,2023-06-22
+571,25.77,The product is a time-saver,56.47,1,30.7,8,51,32446 Lukken Place,2023-07-08,2023-07-08
+572,17.76,The material is very soft and comfortable,31.08,5,13.32,9,19,55377 Novick Crossing,2023-01-12,2023-01-12
+573,27.4,The product is lightweight and easy to carry,40.77,1,13.37,11,8,33206 Grayhawk Park,2023-10-02,2023-10-02
+574,29.61,Great quality,52.45,2,22.84,9,56,8519 Debra Road,2023-04-01,2023-04-01
+575,15.73,The product is a party-starter,45.92,5,30.19,13,62,65267 Lawn Court,2023-12-13,2023-12-13
+576,12.42,The product is easy to use,51.15,1,38.73,9,11,56508 Fairview Center,2023-11-11,2023-11-11
+577,10.5,Fast shipping,45.52,1,35.02,10,87,10 Fordem Road,2023-08-06,2023-08-06
+578,17.38,This product is amazing!,43.65,4,26.27,12,45,18575 Fulton Park,2023-01-20,2023-01-20
+579,18.21,Product arrived earlier than expected,46.54,2,28.33,16,31,0196 Tennessee Terrace,2023-01-18,2023-01-18
+580,19.81,Would recommend to friends and family,55.83,5,36.02,16,46,89 Melby Road,2023-06-07,2023-06-07
+581,15.4,The product is perfect for my needs,33.11,5,17.71,12,2,1 Ohio Hill,2023-10-23,2023-10-23
+582,22.07,The product is a time-saver,59.83,2,37.76,10,69,19087 Surrey Trail,2023-03-18,2023-03-18
+583,24.61,Will definitely buy again,48.34,5,23.73,16,93,39 Green Avenue,2023-01-21,2023-01-21
+584,24.82,The product is a game-changer,54.54,1,29.72,16,88,40902 Magdeline Hill,2023-07-18,2023-07-18
+585,23.33,The product is not durable,32.48,3,9.15,9,16,8749 Reinke Hill,2023-02-08,2023-02-08
+586,21.86,The product is a game-changer,31.96,3,10.1,13,41,49 Ruskin Pass,2023-09-12,2023-09-12
+587,26.91,The product is a money-saver,32.6,3,5.69,13,25,4802 Sullivan Pass,2023-01-07,2023-01-07
+588,25.05,The product is a party-starter,32.95,3,7.9,14,40,5741 Bay Point,2023-08-06,2023-08-06
+589,26.11,Product arrived earlier than expected,41.78,3,15.67,8,57,79 Reinke Street,2023-08-28,2023-08-28
+590,26.96,The product is a money-saver,58.41,4,31.45,16,68,40 Clove Pass,2023-09-06,2023-09-06
+591,24.93,The product exceeded my expectations,53.79,5,28.86,16,31,0606 Waubesa Plaza,2023-10-01,2023-10-01
+592,26.85,The product broke after a few uses,53.96,1,27.11,11,2,247 Raven Circle,2023-11-03,2023-11-03
+593,11.76,The price is too high for the quality,35.44,5,23.68,12,24,40 Bunker Hill Way,2023-12-19,2023-12-19
+594,27.08,The product is a confidence-booster,35.47,5,8.39,13,49,3 Nobel Place,2023-08-30,2023-08-30
+595,14.61,The product is a head-turner,30.97,4,16.36,8,81,6617 Rieder Avenue,2023-01-06,2023-01-06
+596,21.64,The product is exactly as described,43.9,2,22.26,14,39,6592 Summer Ridge Trail,2023-10-19,2023-10-19
+597,27.19,Would recommend to friends and family,40.01,5,12.82,13,27,8977 Gateway Court,2023-05-11,2023-05-11
+598,12.82,Will definitely buy again,59.28,4,46.46,11,95,51 Fieldstone Circle,2023-08-12,2023-08-12
+599,24.74,The product is a game-changer,38.43,2,13.69,13,38,5874 Darwin Plaza,2023-09-23,2023-09-23
+600,24.5,The product exceeded my expectations,55.12,5,30.62,15,11,04610 Northridge Plaza,2023-03-05,2023-03-05
+601,19.56,The product is a must-have for every home,59.68,3,40.12,8,79,54 Hintze Street,2023-09-20,2023-09-20
+602,26.55,The product is a time-saver,33.13,3,6.58,10,40,6 Blackbird Plaza,2023-01-03,2023-01-03
+603,12.03,The product is a lifesaver,40.25,3,28.22,13,22,8 Cardinal Way,2023-02-15,2023-02-15
+604,26.08,Very happy with my purchase,41.72,2,15.64,11,62,7 Carpenter Street,2023-08-31,2023-08-31
+605,13.68,The material is very soft and comfortable,47.91,2,34.23,10,97,9 Kenwood Parkway,2023-06-20,2023-06-20
+606,16.14,The packaging was damaged,32.31,3,16.17,10,47,56361 Columbus Avenue,2023-01-28,2023-01-28
+607,14.89,Would recommend to friends and family,43.0,1,28.11,12,56,38028 Summerview Drive,2023-09-27,2023-09-27
+608,17.79,Not worth the money,32.16,3,14.37,8,6,317 Rockefeller Lane,2023-04-04,2023-04-04
+609,20.62,The product is a game-changer,32.38,3,11.76,9,25,73 Nevada Junction,2023-12-07,2023-12-07
+610,17.61,The product is a great value for the price,51.76,1,34.15,9,63,57998 Truax Parkway,2023-01-07,2023-01-07
+611,23.92,The product is a mood-booster,38.8,2,14.88,9,70,6933 Anthes Drive,2023-09-08,2023-09-08
+612,13.29,The product is a great gift idea,51.78,2,38.49,16,89,6590 Portage Pass,2023-06-12,2023-06-12
+613,15.14,The product is a money-saver,49.63,5,34.49,14,16,7 Dryden Pass,2023-01-26,2023-01-26
+614,21.59,great service,35.78,1,14.19,8,41,3 Stoughton Center,2023-01-02,2023-01-02
+615,10.58,order a size up,55.39,5,44.81,13,55,96 Buell Hill,2023-07-03,2023-07-03
+616,21.29,The product is a crowd-pleaser,39.38,4,18.09,8,50,7 Muir Pass,2023-12-14,2023-12-14
+617,20.53,Not what I expected,58.59,1,38.06,8,36,1 Eastwood Pass,2023-11-21,2023-11-21
+618,18.69,The product is perfect for my needs,59.66,5,40.97,15,90,84062 Shasta Street,2023-05-04,2023-05-04
+619,26.26,The product is perfect for my needs,41.81,4,15.55,16,3,5367 Bartillon Avenue,2023-07-22,2023-07-22
+620,12.69,Will definitely buy again,36.74,1,24.05,16,45,45 Forest Terrace,2023-01-06,2023-01-06
+621,23.91,The product is a mood-booster,42.49,3,18.58,12,48,0 Starling Junction,2023-01-25,2023-01-25
+622,24.75,The product broke after a few uses,38.53,4,13.78,14,37,539 Bartelt Trail,2023-08-20,2023-08-20
+623,11.6,Highly recommend this product,41.97,1,30.37,10,81,36014 Nelson Circle,2023-11-11,2023-11-11
+624,23.79,Excellent customer service,41.95,2,18.16,10,32,19606 Ridge Oak Drive,2023-07-05,2023-07-05
+625,14.62,The product is a great gift idea,52.33,4,37.71,13,77,718 Roth Crossing,2023-03-29,2023-03-29
+626,28.61,The product is a crowd-pleaser,35.08,3,6.47,9,47,138 Thackeray Road,2023-09-12,2023-09-12
+627,24.35,Not what I expected,35.95,1,11.6,15,84,6242 Portage Crossing,2023-07-17,2023-07-17
+628,19.28,The product is a time-saver,50.33,4,31.05,16,52,2158 Ludington Terrace,2023-09-22,2023-09-22
+629,20.78,The product is a must-have for every home,33.97,4,13.19,14,38,536 Chinook Hill,2023-09-03,2023-09-03
+630,23.18,The price is too high for the quality,51.02,2,27.84,10,66,30 Pond Park,2023-04-07,2023-04-07
+631,20.1,Great quality,37.3,5,17.2,10,1,94 Elgar Crossing,2023-07-11,2023-07-11
+632,18.09,Highly recommend this product,54.44,3,36.35,14,78,12776 Hoepker Park,2023-12-14,2023-12-14
+633,23.53,Not worth the money,31.97,4,8.44,8,20,101 Northport Park,2023-05-18,2023-05-18
+634,13.66,The product is stylish and trendy,39.57,3,25.91,16,74,01839 Sundown Lane,2023-04-01,2023-04-01
+635,24.29,The product exceeded my expectations,56.04,2,31.75,8,54,20057 Londonderry Court,2023-09-03,2023-09-03
+636,22.67,The product broke after a few uses,47.78,3,25.11,8,29,041 Bultman Place,2023-03-25,2023-03-25
+637,19.24,The product is a confidence-booster,42.54,2,23.3,13,45,837 Logan Park,2023-06-05,2023-06-05
+638,20.28,The product is a money-saver,45.36,3,25.08,10,82,42 Claremont Plaza,2023-08-09,2023-08-09
+639,25.23,The product is versatile and can be used in many ways,56.86,4,31.63,12,58,5 Veith Junction,2023-06-06,2023-06-06
+640,17.31,great service,41.13,3,23.82,10,92,18854 Mcguire Drive,2023-09-14,2023-09-14
+641,15.83,Very disappointed with this purchase,36.97,5,21.14,11,36,5 Shoshone Center,2023-11-03,2023-11-03
+642,25.72,This product is amazing!,45.06,1,19.34,12,10,35 Steensland Street,2023-01-21,2023-01-21
+643,14.49,The product is a must-have for every home,58.18,4,43.69,16,6,041 Pierstorff Point,2023-06-22,2023-06-22
+644,25.45,The product is a game-changer,49.81,2,24.36,11,16,697 Summit Lane,2023-02-12,2023-02-12
+645,25.43,The product exceeded my expectations,38.61,1,13.18,11,24,6 Cascade Lane,2023-03-13,2023-03-13
+646,18.53,great service,32.95,4,14.42,11,76,589 Golf Course Street,2023-03-12,2023-03-12
+647,13.68,The product is stylish and trendy,41.65,3,27.97,14,3,4 Charing Cross Circle,2023-03-11,2023-03-11
+648,13.66,Would recommend to friends and family,35.25,2,21.59,11,28,4067 Lakewood Gardens Center,2023-11-28,2023-11-28
+649,17.26,The product is a great value for the price,36.46,1,19.2,14,19,25602 Sauthoff Park,2023-03-18,2023-03-18
+650,18.69,The material is very soft and comfortable,54.82,1,36.13,12,51,6027 Oneill Junction,2023-07-19,2023-07-19
+651,29.7,Very satisfied with my purchase,51.7,4,22.0,11,34,48 Boyd Court,2023-03-19,2023-03-19
+652,29.68,The product is lightweight and easy to carry,48.84,5,19.16,10,46,19 Dexter Way,2023-11-29,2023-11-29
+653,29.94,The product is easy to use,35.94,1,6.0,16,95,97414 Debs Circle,2023-06-05,2023-06-05
+654,19.06,The product is a head-turner,45.84,3,26.78,16,89,2 Mallory Point,2023-06-04,2023-06-04
+655,24.95,The product is not durable,36.84,3,11.89,16,1,75634 Lukken Street,2023-04-14,2023-04-14
+656,29.53,order a size up,36.67,2,7.14,12,71,431 Annamark Trail,2023-07-01,2023-07-01
+657,26.41,The product is a conversation-starter,44.77,4,18.36,8,60,0 Barnett Trail,2023-08-20,2023-08-20
+658,11.9,The product is a space-saver,49.78,2,37.88,16,58,2866 Moulton Alley,2023-01-03,2023-01-03
+659,20.8,The product is a time-saver,37.02,4,16.22,11,26,5 Continental Road,2023-02-04,2023-02-04
+660,20.36,The color is not as shown in the picture,53.97,2,33.61,11,50,60 Center Hill,2023-04-20,2023-04-20
+661,11.28,The product is a space-saver,39.87,2,28.59,12,14,767 Corscot Point,2023-07-26,2023-07-26
+662,20.42,The product is a show-stopper,37.2,5,16.78,13,94,28004 Bashford Alley,2023-03-05,2023-03-05
+663,17.77,The product broke after a few uses,48.63,1,30.86,14,13,7 Sauthoff Point,2023-01-09,2023-01-09
+664,22.39,great service,59.19,1,36.8,12,86,4 Melrose Park,2023-08-07,2023-08-07
+665,11.33,Great quality,39.7,3,28.37,11,56,3951 Hayes Trail,2023-10-07,2023-10-07
+666,20.25,This product is amazing!,40.72,5,20.47,12,68,858 Katie Crossing,2023-11-24,2023-11-24
+667,26.51,Excellent customer service,59.33,4,32.82,13,88,15857 Merry Hill,2023-04-04,2023-04-04
+668,25.72,order a size up,57.0,1,31.28,15,3,003 Armistice Alley,2023-09-19,2023-09-19
+669,10.63,Highly recommend this product,53.31,3,42.68,13,67,41711 Green Center,2023-01-19,2023-01-19
+670,18.93,Excellent customer service,46.0,4,27.07,9,96,7060 Gerald Way,2023-12-18,2023-12-18
+671,16.72,The product is a lifesaver,57.36,5,40.64,14,5,8 Moland Parkway,2023-03-29,2023-03-29
+672,15.77,Would buy from this seller again,34.13,1,18.36,16,17,16 Spenser Point,2023-07-02,2023-07-02
+673,23.36,The product is a time-saver,56.75,1,33.39,14,74,4567 Meadow Valley Trail,2023-10-11,2023-10-11
+674,19.0,The product is a great value for the price,44.35,4,25.35,14,7,092 Duke Plaza,2023-12-03,2023-12-03
+675,20.8,The product is versatile and can be used in many ways,36.09,3,15.29,10,49,3156 Park Meadow Point,2023-12-17,2023-12-17
+676,10.56,Very satisfied with my purchase,45.56,2,35.0,8,91,0371 Fremont Avenue,2023-07-15,2023-07-15
+677,21.54,Would buy from this seller again,49.86,1,28.32,9,21,10958 Carey Avenue,2023-02-11,2023-02-11
+678,13.12,Excellent customer service,35.72,3,22.6,16,93,94 Dakota Terrace,2023-02-17,2023-02-17
+679,17.6,This product is amazing!,33.13,1,15.53,11,37,47482 Kropf Place,2023-09-28,2023-09-28
+680,25.79,The product is difficult to assemble,31.63,3,5.84,15,92,4 Hoard Hill,2023-12-14,2023-12-14
+681,27.66,The product is lightweight and easy to carry,39.64,3,11.98,12,76,65793 Anderson Hill,2023-07-02,2023-07-02
+682,12.59,I love this product so much,40.44,1,27.85,16,15,45 Thompson Lane,2023-05-14,2023-05-14
+683,17.57,The material is very soft and comfortable,34.28,4,16.71,8,62,56 Rusk Trail,2023-04-22,2023-04-22
+684,18.89,Very disappointed with this purchase,53.82,1,34.93,13,56,4 Dexter Drive,2023-06-03,2023-06-03
+685,16.24,The product is a confidence-booster,41.15,3,24.91,10,63,117 Judy Terrace,2023-03-14,2023-03-14
+686,27.1,The product is a space-saver,47.98,4,20.88,15,58,500 Longview Point,2023-08-16,2023-08-16
+687,12.75,The product is a money-saver,32.95,4,20.2,15,89,7008 Prairie Rose Avenue,2023-04-22,2023-04-22
+688,15.42,The packaging was damaged,56.81,4,41.39,15,1,40 Beilfuss Park,2023-10-22,2023-10-22
+689,14.47,The product is difficult to assemble,41.71,4,27.24,10,60,655 Prentice Lane,2023-05-31,2023-05-31
+690,25.89,Very disappointed with this purchase,52.2,4,26.31,16,80,61039 Lakewood Gardens Center,2023-11-05,2023-11-05
+691,19.04,great service,33.29,2,14.25,14,79,22 Walton Junction,2023-11-15,2023-11-15
+692,16.54,Would recommend to friends and family,56.88,4,40.34,8,66,27571 Express Hill,2023-03-18,2023-03-18
+693,16.43,Very disappointed with this purchase,41.13,5,24.7,9,69,9230 Express Crossing,2023-02-14,2023-02-14
+694,24.26,Would buy from this seller again,42.61,3,18.35,9,85,86 Northfield Pass,2023-03-19,2023-03-19
+695,12.04,This product is amazing!,54.17,2,42.13,14,54,55049 Pawling Crossing,2023-04-19,2023-04-19
+696,26.62,Would recommend to friends and family,30.95,5,4.33,11,71,93 Lindbergh Place,2023-12-26,2023-12-26
+697,19.29,Would buy from this seller again,42.24,5,22.95,12,24,929 Village Green Lane,2023-12-08,2023-12-08
+698,10.12,The product is a must-have for every home,53.54,5,43.42,16,83,11163 Tennyson Court,2023-04-26,2023-04-26
+699,19.59,The product is a lifesaver,40.46,4,20.87,12,76,29123 Oak Valley Plaza,2023-12-06,2023-12-06
+700,25.44,The product is a lifesaver,54.42,4,28.98,9,91,5085 Morningstar Hill,2023-01-10,2023-01-10
+701,21.56,Very disappointed with this purchase,45.64,2,24.08,10,47,4824 Warbler Alley,2023-06-21,2023-06-21
+702,22.56,Highly recommend this product,50.22,4,27.66,15,21,1786 Welch Place,2023-12-18,2023-12-18
+703,29.45,The product is not durable,59.64,5,30.19,9,8,522 Coolidge Alley,2023-06-12,2023-06-12
+704,18.66,great service,59.6,2,40.94,11,26,060 Magdeline Park,2023-08-12,2023-08-12
+705,23.22,The product is a must-have for every home,51.54,5,28.32,16,11,4311 Kim Road,2023-12-19,2023-12-19
+706,13.68,The product is not durable,46.89,2,33.21,9,25,8 Karstens Plaza,2023-05-19,2023-05-19
+707,24.9,The product is a lifesaver,38.49,4,13.59,14,55,83 Hallows Hill,2023-04-05,2023-04-05
+708,27.97,great service,34.31,4,6.34,11,61,8493 Manitowish Plaza,2023-10-17,2023-10-17
+709,16.53,The product is a stress-reliever,55.74,4,39.21,9,35,9 Morningstar Avenue,2023-12-09,2023-12-09
+710,22.2,The product is versatile and can be used in many ways,50.46,4,28.26,14,44,556 Express Junction,2023-05-04,2023-05-04
+711,26.17,Not what I expected,31.1,3,4.93,13,9,9206 Hayes Hill,2023-02-26,2023-02-26
+712,29.04,The product is a great gift idea,53.94,3,24.9,15,39,1106 Dahle Alley,2023-02-08,2023-02-08
+713,29.03,The product is exactly as described,59.28,4,30.25,16,43,48983 3rd Place,2023-11-16,2023-11-16
+714,12.93,The packaging was damaged,43.67,2,30.74,15,43,0 Havey Parkway,2023-04-20,2023-04-20
+715,12.58,The product is a great value for the price,52.68,2,40.1,8,35,634 Mallory Court,2023-07-01,2023-07-01
+716,29.77,The product is perfect for my needs,34.42,1,4.65,14,25,60 Scofield Place,2023-02-23,2023-02-23
+717,26.97,The product is a lifesaver,47.68,5,20.71,9,90,559 Ramsey Trail,2023-04-18,2023-04-18
+718,19.57,Highly recommend this product,55.64,3,36.07,11,67,73996 Dovetail Point,2023-07-25,2023-07-25
+719,28.01,The product is a show-stopper,51.89,5,23.88,13,41,259 Erie Hill,2023-09-03,2023-09-03
+720,17.27,The product is easy to use,46.22,3,28.95,10,85,9719 Dunning Park,2023-09-30,2023-09-30
+721,26.55,The product is a head-turner,43.96,5,17.41,9,81,20 Cambridge Hill,2023-03-23,2023-03-23
+722,10.56,The packaging was damaged,48.65,1,38.09,14,58,56993 Surrey Alley,2023-01-17,2023-01-17
+723,21.26,Will definitely buy again,57.39,2,36.13,16,50,409 Linden Circle,2023-05-07,2023-05-07
+724,24.49,Not worth the money,52.65,5,28.16,11,11,63 Michigan Alley,2023-12-28,2023-12-28
+725,26.06,The price is too high for the quality,50.18,3,24.12,11,77,0147 Sage Parkway,2023-10-03,2023-10-03
+726,17.1,The product is difficult to assemble,33.35,3,16.25,13,63,22 Buhler Place,2023-12-13,2023-12-13
+727,17.82,order a size up,50.42,3,32.6,14,40,8659 Debs Street,2023-05-16,2023-05-16
+728,16.24,The product exceeded my expectations,47.07,4,30.83,11,53,3 Becker Hill,2023-05-30,2023-05-30
+729,13.41,The product is not durable,53.53,3,40.12,14,31,3 Declaration Street,2023-12-06,2023-12-06
+730,11.28,The packaging was damaged,53.54,2,42.26,9,94,01032 Bonner Point,2023-08-23,2023-08-23
+731,20.43,The product is stylish and trendy,36.77,3,16.34,12,42,4 Hollow Ridge Hill,2023-09-22,2023-09-22
+732,23.65,Very satisfied with my purchase,36.34,1,12.69,10,89,761 Drewry Trail,2023-12-26,2023-12-26
+733,27.26,I love this product so much,57.83,3,30.57,8,44,687 Farragut Pass,2023-01-13,2023-01-13
+734,10.6,The product is lightweight and easy to carry,51.83,1,41.23,11,22,76907 Troy Hill,2023-01-23,2023-01-23
+735,11.14,Very disappointed with this purchase,36.44,3,25.3,11,71,7904 North Drive,2023-03-13,2023-03-13
+736,20.56,The product is a great value for the price,56.36,5,35.8,14,39,71881 Lighthouse Bay Pass,2023-06-06,2023-06-06
+737,24.49,The product broke after a few uses,39.16,5,14.67,11,1,2565 Oneill Park,2023-02-23,2023-02-23
+738,19.28,The product is lightweight and easy to carry,47.02,1,27.74,15,59,16118 Kinsman Trail,2023-04-07,2023-04-07
+739,20.46,The product is a lifesaver,41.62,1,21.16,16,45,4 North Avenue,2023-04-25,2023-04-25
+740,15.8,The product is a confidence-booster,54.52,4,38.72,8,24,50 International Way,2023-05-28,2023-05-28
+741,10.1,Would recommend to friends and family,56.25,1,46.15,15,64,9543 Darwin Hill,2023-10-28,2023-10-28
+742,12.34,The packaging was damaged,32.55,1,20.21,15,10,7 Ridgeway Drive,2023-03-30,2023-03-30
+743,18.9,The product is a great gift idea,43.33,3,24.43,14,91,9915 Morningstar Crossing,2023-05-16,2023-05-16
+744,16.31,The product is versatile and can be used in many ways,32.45,5,16.14,9,7,09113 Manitowish Crossing,2023-12-25,2023-12-25
+745,15.84,The product is a money-saver,49.3,5,33.46,13,3,68 Mallory Circle,2023-09-09,2023-09-09
+746,25.14,Very disappointed with this purchase,40.99,2,15.85,15,69,54 Center Court,2023-10-28,2023-10-28
+747,20.31,The product is a crowd-pleaser,31.04,1,10.73,12,46,1 Anniversary Pass,2023-02-13,2023-02-13
+748,18.75,The product broke after a few uses,55.0,5,36.25,8,87,01 Hovde Drive,2023-10-28,2023-10-28
+749,24.22,Excellent customer service,43.4,2,19.18,11,30,78625 Banding Place,2023-12-21,2023-12-21
+750,19.61,The product is a time-saver,39.71,5,20.1,10,62,8 Park Meadow Terrace,2023-03-28,2023-03-28
+751,12.1,Product arrived earlier than expected,37.08,1,24.98,9,58,26315 Butternut Pass,2023-06-25,2023-06-25
+752,25.64,The product is exactly as described,34.64,2,9.0,10,18,6126 Sauthoff Street,2023-09-06,2023-09-06
+753,18.38,The product is easy to use,39.08,3,20.7,10,40,519 Mosinee Crossing,2023-05-21,2023-05-21
+754,19.38,Product arrived earlier than expected,46.69,1,27.31,10,4,31534 Holy Cross Lane,2023-02-10,2023-02-10
+755,24.32,Excellent customer service,44.59,2,20.27,11,33,47232 Lunder Junction,2023-02-05,2023-02-05
+756,14.37,Very satisfied with my purchase,31.08,4,16.71,9,52,244 Dexter Park,2023-09-02,2023-09-02
+757,14.72,The product is easy to use,48.3,5,33.58,15,65,13978 Fuller Point,2023-06-20,2023-06-20
+758,15.18,The product is a mood-booster,33.4,5,18.22,14,35,3 Grim Park,2023-10-01,2023-10-01
+759,13.96,The product is a game-changer,43.66,3,29.7,11,39,650 Northland Crossing,2023-06-27,2023-06-27
+760,13.44,The product is not durable,52.18,5,38.74,8,95,74951 Drewry Trail,2023-12-02,2023-12-02
+761,21.52,The material is very soft and comfortable,49.52,2,28.0,10,10,673 Katie Point,2023-09-18,2023-09-18
+762,21.77,The product broke after a few uses,34.19,3,12.42,9,86,66 Erie Point,2023-04-13,2023-04-13
+763,10.15,The product is a game-changer,48.84,3,38.69,13,25,81 Anzinger Center,2023-06-16,2023-06-16
+764,10.2,The product is a mood-booster,35.6,5,25.4,12,75,90 Tennessee Way,2023-12-07,2023-12-07
+765,19.96,The size runs small,47.67,3,27.71,16,99,2174 Karstens Alley,2023-11-06,2023-11-06
+766,14.94,The product is a head-turner,31.31,4,16.37,12,67,3 Eliot Court,2023-12-19,2023-12-19
+767,18.6,The product is a great gift idea,36.28,3,17.68,10,59,215 Grim Court,2023-02-19,2023-02-19
+768,11.15,Would buy from this seller again,53.51,1,42.36,9,64,38445 Lerdahl Point,2023-06-18,2023-06-18
+769,17.18,The product is a great gift idea,51.55,1,34.37,9,2,0 Oak Pass,2023-05-18,2023-05-18
+770,12.46,The product is lightweight and easy to carry,33.06,3,20.6,13,32,7 International Circle,2023-04-16,2023-04-16
+771,28.68,The product is a mood-booster,54.76,1,26.08,13,76,8 Moland Avenue,2023-07-18,2023-07-18
+772,18.97,The product is a crowd-pleaser,35.88,1,16.91,12,21,70 Sunbrook Court,2023-03-03,2023-03-03
+773,22.67,Not what I expected,57.09,5,34.42,13,54,72393 Alpine Avenue,2023-04-04,2023-04-04
+774,25.65,The product is difficult to assemble,33.0,3,7.35,14,47,6 Monica Way,2023-09-22,2023-09-22
+775,27.71,The product is a show-stopper,36.04,1,8.33,10,56,34605 Eastwood Point,2023-08-28,2023-08-28
+776,26.94,The product is a great gift idea,49.96,5,23.02,13,97,697 Schiller Hill,2023-10-09,2023-10-09
+777,26.72,Will definitely buy again,38.06,3,11.34,10,23,219 Westport Place,2023-01-29,2023-01-29
+778,19.64,The product is a game-changer,39.32,4,19.68,11,58,082 Aberg Hill,2023-09-06,2023-09-06
+779,19.92,The product is a conversation-starter,34.36,4,14.44,14,91,0914 Fisk Lane,2023-07-31,2023-07-31
+780,19.16,Not what I expected,58.96,3,39.8,10,6,1393 Waywood Parkway,2023-06-16,2023-06-16
+781,11.16,The product is a party-starter,43.17,4,32.01,15,61,9 Harbort Circle,2023-02-11,2023-02-11
+782,10.56,Would recommend to friends and family,42.11,5,31.55,14,16,1698 Harbort Trail,2023-09-08,2023-09-08
+783,18.37,The color is not as shown in the picture,38.79,1,20.42,13,52,8237 Shasta Lane,2023-06-19,2023-06-19
+784,25.59,The size runs small,37.5,1,11.91,9,17,69862 Manufacturers Park,2023-02-25,2023-02-25
+785,11.89,The product is easy to use,40.84,2,28.95,15,90,12 Northfield Avenue,2023-10-10,2023-10-10
+786,29.57,The size runs small,45.8,4,16.23,12,89,54689 Gale Avenue,2023-11-07,2023-11-07
+787,24.36,The product is a stress-reliever,59.31,4,34.95,10,48,89 Mccormick Alley,2023-07-29,2023-07-29
+788,16.63,The price is too high for the quality,34.67,4,18.04,15,1,81782 Utah Street,2023-05-06,2023-05-06
+789,12.05,Very disappointed with this purchase,53.67,4,41.62,9,57,996 Marquette Pass,2023-03-21,2023-03-21
+790,12.0,The color is not as shown in the picture,34.29,1,22.29,14,19,770 David Street,2023-08-07,2023-08-07
+791,14.35,The product is a game-changer,42.61,5,28.26,12,21,67470 David Alley,2023-01-23,2023-01-23
+792,12.75,I love this product so much,56.88,4,44.13,12,35,4668 Lunder Lane,2023-09-12,2023-09-12
+793,15.55,Will definitely buy again,34.94,5,19.39,13,84,0342 Schurz Center,2023-02-02,2023-02-02
+794,26.23,Great quality,53.59,5,27.36,13,44,2 Sachtjen Drive,2023-08-22,2023-08-22
+795,19.84,The product is a show-stopper,48.6,5,28.76,10,66,8 Mcbride Alley,2023-04-05,2023-04-05
+796,26.94,The packaging was damaged,54.54,4,27.6,16,40,0 Jackson Terrace,2023-09-29,2023-09-29
+797,19.26,The product is a crowd-pleaser,34.87,3,15.61,8,70,86 Clyde Gallagher Junction,2023-01-10,2023-01-10
+798,12.82,order a size up,55.65,1,42.83,10,29,625 Killdeer Point,2023-12-13,2023-12-13
+799,25.33,The product is a space-saver,40.05,1,14.72,13,30,74 South Pass,2023-04-19,2023-04-19
+800,16.88,The product is a head-turner,55.47,2,38.59,16,95,25217 Village Parkway,2023-08-10,2023-08-10
+801,18.75,The product is a stress-reliever,47.99,3,29.24,9,5,18 Calypso Junction,2023-04-29,2023-04-29
+802,18.93,Excellent customer service,40.63,2,21.7,9,31,0 Kenwood Court,2023-05-26,2023-05-26
+803,12.71,The product is a time-saver,30.25,3,17.54,16,37,41 Service Parkway,2023-07-16,2023-07-16
+804,18.01,Fast shipping,57.33,3,39.32,14,11,0225 Novick Avenue,2023-03-20,2023-03-20
+805,29.38,The product is a party-starter,33.74,5,4.36,8,33,23 Garrison Plaza,2023-08-09,2023-08-09
+806,15.76,Fast shipping,37.46,1,21.7,11,81,8801 Sachtjen Drive,2023-09-22,2023-09-22
+807,29.5,Very disappointed with this purchase,40.3,4,10.8,8,91,9769 Kensington Avenue,2023-08-02,2023-08-02
+808,15.11,The product is a show-stopper,59.51,4,44.4,13,61,24 Miller Place,2023-12-28,2023-12-28
+809,26.12,Very satisfied with my purchase,33.78,5,7.66,15,93,87132 School Road,2023-03-16,2023-03-16
+810,17.21,The product is a must-have for every home,32.6,2,15.39,8,42,1645 Sloan Terrace,2023-02-08,2023-02-08
+811,24.81,The product is a lifesaver,58.73,4,33.92,10,5,8927 Sutherland Parkway,2023-07-23,2023-07-23
+812,20.43,The color is not as shown in the picture,31.48,3,11.05,13,56,52686 Golf Course Plaza,2023-03-29,2023-03-29
+813,27.27,The product is a crowd-pleaser,30.49,1,3.22,13,19,7722 Pepper Wood Pass,2023-02-11,2023-02-11
+814,16.28,Very satisfied with my purchase,46.56,4,30.28,15,49,8 Canary Avenue,2023-04-01,2023-04-01
+815,19.86,The product is lightweight and easy to carry,37.71,2,17.85,8,51,9085 Eagle Crest Plaza,2023-05-23,2023-05-23
+816,13.06,The product is difficult to assemble,55.67,5,42.61,15,64,3 Donald Trail,2023-03-14,2023-03-14
+817,21.44,The product is perfect for my needs,30.39,3,8.95,9,27,10367 Namekagon Junction,2023-01-09,2023-01-09
+818,24.52,The product is a great value for the price,43.94,1,19.42,11,37,063 Jenna Terrace,2023-07-02,2023-07-02
+819,10.81,Very satisfied with my purchase,42.53,3,31.72,16,55,096 Atwood Circle,2023-07-11,2023-07-11
+820,29.76,The product is a must-have for every home,56.22,1,26.46,16,43,2 Lawn Trail,2023-07-30,2023-07-30
+821,29.9,The product is difficult to assemble,44.77,3,14.87,11,54,4 Havey Crossing,2023-05-27,2023-05-27
+822,18.33,Product arrived earlier than expected,47.4,4,29.07,9,85,88 Manufacturers Way,2023-07-16,2023-07-16
+823,12.81,This product is amazing!,41.09,5,28.28,11,92,9632 Rieder Street,2023-05-15,2023-05-15
+824,17.48,The color is not as shown in the picture,45.1,2,27.62,9,94,2033 Mayfield Lane,2023-10-13,2023-10-13
+825,26.97,The product is a show-stopper,45.8,5,18.83,13,81,3 Arrowood Road,2023-03-21,2023-03-21
+826,21.11,The product is a party-starter,37.58,2,16.47,14,76,785 Linden Alley,2023-12-28,2023-12-28
+827,26.59,The product is a space-saver,59.36,5,32.77,15,34,154 Grim Drive,2023-02-02,2023-02-02
+828,21.02,great service,38.16,1,17.14,14,46,97679 Spohn Junction,2023-05-16,2023-05-16
+829,12.6,The product is not durable,57.41,3,44.81,13,41,14 Duke Drive,2023-09-12,2023-09-12
+830,14.05,The product is a crowd-pleaser,40.19,3,26.14,8,83,1 Center Street,2023-05-20,2023-05-20
+831,12.88,The product is a great gift idea,54.93,5,42.05,10,63,746 Sunnyside Point,2023-01-20,2023-01-20
+832,22.82,The product is versatile and can be used in many ways,45.91,3,23.09,13,50,180 Golf View Alley,2023-01-01,2023-01-01
+833,16.42,The color is not as shown in the picture,38.2,4,21.78,9,28,4852 Calypso Lane,2023-03-19,2023-03-19
+834,14.63,The product is exactly as described,56.89,5,42.26,11,53,9 Milwaukee Point,2023-12-08,2023-12-08
+835,11.18,The product is a mood-booster,43.43,2,32.25,8,44,83346 School Terrace,2023-03-18,2023-03-18
+836,10.09,Very satisfied with my purchase,57.39,4,47.3,9,86,673 Karstens Circle,2023-01-30,2023-01-30
+837,16.77,I love this product so much,49.43,5,32.66,16,23,8751 Northfield Point,2023-03-07,2023-03-07
+838,21.78,The product is exactly as described,32.11,1,10.33,8,9,0063 Morning Park,2023-04-27,2023-04-27
+839,19.54,The product is a stress-reliever,30.04,5,10.5,9,90,6616 Cherokee Place,2023-09-21,2023-09-21
+840,19.46,great service,54.57,1,35.11,10,57,8 Mcbride Avenue,2023-02-11,2023-02-11
+841,14.78,Highly recommend this product,52.81,3,38.03,8,49,90 Artisan Crossing,2023-05-30,2023-05-30
+842,25.65,The product is easy to use,56.16,2,30.51,15,40,578 Transport Circle,2023-10-24,2023-10-24
+843,10.49,The product is a great value for the price,33.85,3,23.36,13,10,7624 Hayes Road,2023-09-17,2023-09-17
+844,19.92,Would buy from this seller again,58.82,4,38.9,12,36,6 Lakewood Gardens Pass,2023-02-04,2023-02-04
+845,19.97,Product arrived earlier than expected,47.75,4,27.78,11,26,74211 Carioca Place,2023-09-02,2023-09-02
+846,10.51,The color is not as shown in the picture,36.77,3,26.26,9,81,4905 Esker Trail,2023-12-21,2023-12-21
+847,20.34,The product is a game-changer,53.61,3,33.27,14,47,09961 Petterle Trail,2023-11-26,2023-11-26
+848,13.44,Very happy with my purchase,40.19,4,26.75,12,13,54 Washington Terrace,2023-10-22,2023-10-22
+849,10.19,Very satisfied with my purchase,34.32,5,24.13,13,11,34 Golden Leaf Point,2023-12-21,2023-12-21
+850,12.73,The product is a great value for the price,35.12,3,22.39,8,42,70715 Pearson Crossing,2023-01-08,2023-01-08
+851,27.91,The product is a crowd-pleaser,42.15,1,14.24,13,21,87008 Duke Center,2023-02-04,2023-02-04
+852,21.58,The product is versatile and can be used in many ways,40.67,2,19.09,15,76,701 Myrtle Court,2023-12-06,2023-12-06
+853,24.09,order a size up,45.04,4,20.95,9,86,00109 Lukken Road,2023-02-19,2023-02-19
+854,28.79,Will definitely buy again,58.57,3,29.78,13,52,1 Southridge Center,2023-11-20,2023-11-20
+855,28.37,Very happy with my purchase,56.48,2,28.11,13,58,3814 Hoepker Point,2023-04-11,2023-04-11
+856,23.33,Not worth the money,32.82,3,9.49,13,16,3 Westport Way,2023-10-24,2023-10-24
+857,25.38,The product is a mood-booster,55.06,3,29.68,12,63,915 Pearson Lane,2023-11-14,2023-11-14
+858,23.74,The product is a conversation-starter,51.16,3,27.42,8,56,0 Stuart Avenue,2023-06-23,2023-06-23
+859,27.98,The product is a game-changer,49.37,5,21.39,11,53,45942 Shasta Center,2023-04-14,2023-04-14
+860,21.14,The product is a party-starter,50.84,4,29.7,10,72,1 Coleman Court,2023-08-02,2023-08-02
+861,20.27,The price is too high for the quality,52.78,1,32.51,10,55,24626 Sugar Terrace,2023-07-12,2023-07-12
+862,14.49,great service,53.21,1,38.72,12,73,94 Claremont Alley,2023-10-23,2023-10-23
+863,22.32,The product is a must-have for every home,50.74,3,28.42,14,65,05 Pleasure Center,2023-02-09,2023-02-09
+864,16.85,The product broke after a few uses,43.84,3,26.99,9,83,421 Heath Road,2023-01-28,2023-01-28
+865,28.18,The product is stylish and trendy,47.57,5,19.39,10,98,1185 Kingsford Hill,2023-07-21,2023-07-21
+866,11.78,Great quality,42.79,4,31.01,9,71,727 Northland Parkway,2023-07-17,2023-07-17
+867,19.15,The product is perfect for my needs,32.09,3,12.94,10,67,786 Kedzie Center,2023-10-24,2023-10-24
+868,13.86,The product is a show-stopper,38.51,5,24.65,10,82,002 Fordem Avenue,2023-03-27,2023-03-27
+869,15.23,The product is a party-starter,58.46,4,43.23,11,83,169 David Park,2023-10-17,2023-10-17
+870,10.86,The product is a game-changer,54.03,5,43.17,8,9,63090 Moland Place,2023-12-11,2023-12-11
+871,22.37,great service,56.16,5,33.79,9,27,0006 Stang Avenue,2023-08-01,2023-08-01
+872,19.63,The product is a great value for the price,33.35,5,13.72,10,70,593 Cambridge Road,2023-04-22,2023-04-22
+873,25.63,The product is a stress-reliever,33.86,5,8.23,14,6,56 Northwestern Circle,2023-07-15,2023-07-15
+874,19.59,Very disappointed with this purchase,38.9,1,19.31,14,11,419 Schiller Way,2023-05-12,2023-05-12
+875,15.6,The product is lightweight and easy to carry,58.14,1,42.54,13,97,6627 Calypso Way,2023-08-14,2023-08-14
+876,29.19,Excellent customer service,41.24,4,12.05,10,96,4 Laurel Hill,2023-09-19,2023-09-19
+877,13.36,Fast shipping,44.58,1,31.22,12,85,6 Oak Trail,2023-10-16,2023-10-16
+878,21.69,The size runs small,38.77,3,17.08,14,93,8 Debra Circle,2023-11-16,2023-11-16
+879,11.38,The size runs small,38.99,3,27.61,14,58,817 Forest Run Place,2023-08-05,2023-08-05
+880,25.96,The product is a game-changer,58.86,3,32.9,15,84,295 Bay Trail,2023-05-29,2023-05-29
+881,10.03,Will definitely buy again,39.69,5,29.66,14,95,1726 Texas Terrace,2023-10-19,2023-10-19
+882,19.85,Fast shipping,39.23,4,19.38,10,82,18 Straubel Lane,2023-03-13,2023-03-13
+883,21.46,Will definitely buy again,54.79,3,33.33,15,73,76452 Melby Hill,2023-02-09,2023-02-09
+884,11.2,The product is difficult to assemble,35.38,5,24.18,13,81,29942 High Crossing Parkway,2023-09-12,2023-09-12
+885,18.03,The product is perfect for my needs,42.72,1,24.69,10,15,8090 Starling Parkway,2023-07-21,2023-07-21
+886,24.57,The product is difficult to assemble,43.78,5,19.21,13,3,47 Summit Place,2023-04-15,2023-04-15
+887,16.56,Excellent customer service,49.96,2,33.4,10,100,92 Atwood Point,2023-10-06,2023-10-06
+888,20.81,The color is not as shown in the picture,32.69,2,11.88,12,79,90716 Dayton Crossing,2023-04-04,2023-04-04
+889,19.76,Would buy from this seller again,54.01,3,34.25,8,36,1 Iowa Parkway,2023-09-25,2023-09-25
+890,24.78,I love this product so much,45.88,2,21.1,10,16,442 Donald Alley,2023-05-24,2023-05-24
+891,24.82,The product is a time-saver,49.95,5,25.13,8,50,54 Springview Alley,2023-08-30,2023-08-30
+892,14.13,The product is a game-changer,44.09,5,29.96,12,25,500 Orin Junction,2023-03-31,2023-03-31
+893,16.0,The product is a head-turner,34.53,5,18.53,13,44,7604 Green Point,2023-11-04,2023-11-04
+894,18.41,Not worth the money,58.83,2,40.42,15,60,693 Center Court,2023-10-19,2023-10-19
+895,18.82,The product is not durable,55.79,1,36.97,13,71,39340 Division Hill,2023-05-11,2023-05-11
+896,11.09,The product exceeded my expectations,50.31,4,39.22,9,54,80358 Division Center,2023-05-28,2023-05-28
+897,15.09,Fast shipping,45.76,5,30.67,14,18,72 Bellgrove Alley,2023-10-04,2023-10-04
+898,16.03,Product arrived earlier than expected,51.12,2,35.09,12,87,9 Oakridge Junction,2023-06-12,2023-06-12
+899,13.1,The size runs small,49.1,1,36.0,16,39,5083 Cherokee Way,2023-06-07,2023-06-07
+900,28.95,Not what I expected,38.55,5,9.6,11,56,121 Surrey Point,2023-01-11,2023-01-11
+901,22.52,order a size up,38.55,4,16.03,16,92,34852 Surrey Way,2023-05-29,2023-05-29
+902,16.88,Great quality,48.47,1,31.59,8,78,018 Village Green Crossing,2023-06-03,2023-06-03
+903,22.05,The product is a great gift idea,35.08,2,13.03,12,93,551 Bobwhite Place,2023-01-23,2023-01-23
+904,19.63,The packaging was damaged,58.38,1,38.75,14,88,55 Haas Road,2023-06-13,2023-06-13
+905,16.82,The product is a head-turner,46.85,1,30.03,15,51,07 Packers Pass,2023-08-20,2023-08-20
+906,19.81,The packaging was damaged,42.09,4,22.28,13,48,2151 Walton Drive,2023-06-30,2023-06-30
+907,25.46,Product arrived earlier than expected,54.32,2,28.86,15,70,389 Pine View Junction,2023-03-05,2023-03-05
+908,10.47,The product is a lifesaver,42.25,3,31.78,15,31,21 Amoth Avenue,2023-06-02,2023-06-02
+909,13.47,The material is very soft and comfortable,56.24,2,42.77,9,66,9 Oneill Park,2023-04-02,2023-04-02
+910,24.44,The product is stylish and trendy,53.47,3,29.03,14,23,58 Glacier Hill Plaza,2023-06-16,2023-06-16
+911,26.67,The product is a party-starter,37.4,2,10.73,11,10,892 Larry Circle,2023-04-26,2023-04-26
+912,10.25,The product is a head-turner,31.65,2,21.4,16,69,5579 Sutteridge Place,2023-04-06,2023-04-06
+913,15.79,The price is too high for the quality,51.24,3,35.45,9,68,2 Holmberg Trail,2023-06-16,2023-06-16
+914,15.59,The packaging was damaged,48.78,1,33.19,9,61,97397 Hanson Alley,2023-08-24,2023-08-24
+915,24.99,Will definitely buy again,51.85,4,26.86,11,16,7 Norway Maple Hill,2023-05-30,2023-05-30
+916,24.2,The product is a show-stopper,43.79,4,19.59,11,89,609 2nd Junction,2023-12-05,2023-12-05
+917,28.52,The product is a space-saver,59.42,3,30.9,9,74,32891 Lillian Center,2023-07-06,2023-07-06
+918,16.41,The product is versatile and can be used in many ways,38.68,5,22.27,15,72,2151 Surrey Point,2023-06-03,2023-06-03
+919,14.06,The product is easy to use,53.86,3,39.8,9,76,32316 Fieldstone Drive,2023-07-16,2023-07-16
+920,10.65,The product is a must-have for every home,49.23,1,38.58,8,96,47 Clemons Circle,2023-12-06,2023-12-06
+921,26.86,The product is not durable,45.2,4,18.34,10,71,1 Mcbride Pass,2023-08-23,2023-08-23
+922,23.49,Not what I expected,55.34,2,31.85,13,35,070 Barby Park,2023-07-09,2023-07-09
+923,29.08,Excellent customer service,54.25,3,25.17,11,5,63632 Karstens Crossing,2023-03-07,2023-03-07
+924,18.16,The product is not durable,40.87,2,22.71,13,55,847 Mesta Place,2023-11-05,2023-11-05
+925,25.5,Product arrived earlier than expected,38.02,2,12.52,14,94,19 Red Cloud Drive,2023-08-28,2023-08-28
+926,19.57,I love this product so much,36.61,4,17.04,10,27,13972 Meadow Valley Drive,2023-02-12,2023-02-12
+927,13.38,The product is versatile and can be used in many ways,39.41,2,26.03,10,18,88996 American Plaza,2023-09-11,2023-09-11
+928,19.09,The product is a stress-reliever,58.95,3,39.86,16,15,792 Schmedeman Place,2023-04-30,2023-04-30
+929,19.36,The product is a head-turner,52.45,4,33.09,16,84,4044 Northland Hill,2023-04-24,2023-04-24
+930,27.06,Will definitely buy again,57.06,3,30.0,16,58,3159 Schiller Park,2023-10-05,2023-10-05
+931,10.74,The product is exactly as described,34.36,5,23.62,9,84,5 Mandrake Parkway,2023-01-17,2023-01-17
+932,18.77,great service,51.43,4,32.66,10,12,738 Stephen Parkway,2023-06-01,2023-06-01
+933,21.37,Very satisfied with my purchase,44.66,2,23.29,16,7,453 Mifflin Center,2023-05-22,2023-05-22
+934,15.55,The product is easy to use,49.15,2,33.6,13,33,7 Village Green Street,2023-01-30,2023-01-30
+935,28.9,The product is a lifesaver,40.34,2,11.44,8,68,1098 Texas Point,2023-02-03,2023-02-03
+936,12.55,The product is a crowd-pleaser,34.01,1,21.46,10,28,2945 Jay Road,2023-04-26,2023-04-26
+937,15.26,The product is difficult to assemble,31.36,5,16.1,12,47,0 Orin Court,2023-10-06,2023-10-06
+938,15.18,The product exceeded my expectations,50.97,3,35.79,10,9,32849 Shopko Point,2023-06-25,2023-06-25
+939,27.58,The material is very soft and comfortable,33.11,5,5.53,12,16,81 Vahlen Junction,2023-06-18,2023-06-18
+940,13.21,The color is not as shown in the picture,45.4,4,32.19,13,23,1 Nelson Avenue,2023-11-28,2023-11-28
+941,20.0,The product is a space-saver,38.07,4,18.07,13,77,1 Melby Park,2023-03-29,2023-03-29
+942,18.55,Would recommend to friends and family,36.57,3,18.02,16,54,0 Stoughton Park,2023-10-21,2023-10-21
+943,24.74,Would buy from this seller again,34.08,2,9.34,15,64,7656 Arizona Parkway,2023-11-09,2023-11-09
+944,13.53,The product is a show-stopper,42.12,5,28.59,12,11,565 Springs Park,2023-10-03,2023-10-03
+945,10.38,The product is a head-turner,32.61,3,22.23,9,2,4653 Blackbird Parkway,2023-10-09,2023-10-09
+946,17.96,The product is a great value for the price,50.07,3,32.11,12,92,2480 Straubel Crossing,2023-04-16,2023-04-16
+947,23.31,The size runs small,49.52,5,26.21,14,66,1675 Schurz Circle,2023-12-13,2023-12-13
+948,18.98,I love this product so much,34.09,5,15.11,11,22,2898 Golden Leaf Crossing,2023-05-14,2023-05-14
+949,25.78,The product is not durable,56.47,2,30.69,11,8,80 Twin Pines Avenue,2023-10-02,2023-10-02
+950,22.01,The product is a game-changer,35.69,4,13.68,9,58,3660 Del Mar Crossing,2023-12-25,2023-12-25
+951,10.03,The product is lightweight and easy to carry,36.2,3,26.17,8,29,73009 Sherman Parkway,2023-03-05,2023-03-05
+952,17.61,The product is a great value for the price,39.26,3,21.65,10,97,9 Springs Parkway,2023-10-25,2023-10-25
+953,12.38,Very satisfied with my purchase,46.82,3,34.44,14,41,6365 Reinke Park,2023-05-10,2023-05-10
+954,28.96,The packaging was damaged,32.39,4,3.43,14,1,25502 South Center,2023-04-04,2023-04-04
+955,29.82,The product is not durable,37.8,3,7.98,15,50,4 Union Street,2023-04-11,2023-04-11
+956,27.38,The product is a game-changer,43.9,4,16.52,15,81,99850 Everett Park,2023-04-15,2023-04-15
+957,22.01,The product is not durable,48.89,1,26.88,8,87,67308 Monument Avenue,2023-11-20,2023-11-20
+958,10.7,Highly recommend this product,53.74,1,43.04,16,67,32 Union Junction,2023-10-20,2023-10-20
+959,13.72,The price is too high for the quality,35.01,1,21.29,13,42,51 Old Shore Pass,2023-03-15,2023-03-15
+960,19.26,great service,43.47,5,24.21,12,79,7525 Straubel Alley,2023-06-02,2023-06-02
+961,22.34,The color is not as shown in the picture,36.96,5,14.62,8,46,263 Debs Crossing,2023-11-12,2023-11-12
+962,26.61,The product is a crowd-pleaser,43.41,3,16.8,15,87,1 Prairie Rose Point,2023-06-26,2023-06-26
+963,26.38,The color is not as shown in the picture,34.62,5,8.24,10,99,947 Atwood Center,2023-12-25,2023-12-25
+964,26.17,The material is very soft and comfortable,39.9,1,13.73,12,1,140 Lien Pass,2023-12-16,2023-12-16
+965,24.7,order a size up,35.88,1,11.18,8,11,28 Old Shore Way,2023-07-11,2023-07-11
+966,19.04,The material is very soft and comfortable,45.33,3,26.29,15,69,58871 Pepper Wood Park,2023-03-21,2023-03-21
+967,13.57,The product is a game-changer,48.91,5,35.34,9,22,1 Cardinal Court,2023-08-15,2023-08-15
+968,28.06,The material is very soft and comfortable,38.14,4,10.08,9,52,9322 Memorial Parkway,2023-05-22,2023-05-22
+969,20.31,Very satisfied with my purchase,58.89,5,38.58,12,96,41 Northfield Road,2023-10-13,2023-10-13
+970,20.32,The product is stylish and trendy,37.79,3,17.47,10,73,02807 Graceland Alley,2023-02-19,2023-02-19
+971,14.77,The size runs small,35.07,3,20.3,8,30,20077 Scofield Drive,2023-08-26,2023-08-26
+972,27.03,The product is a game-changer,58.15,4,31.12,14,64,93707 Riverside Point,2023-01-31,2023-01-31
+973,26.53,I love this product so much,38.09,3,11.56,10,33,75826 Moose Parkway,2023-07-29,2023-07-29
+974,21.84,Will definitely buy again,48.53,4,26.69,15,15,2909 Transport Street,2023-04-29,2023-04-29
+975,21.24,Would buy from this seller again,42.48,5,21.24,13,81,9 Ridgeway Circle,2023-07-31,2023-07-31
+976,26.95,The product is a stress-reliever,40.62,1,13.67,10,89,44 Rieder Pass,2023-11-11,2023-11-11
+977,18.85,The product is a time-saver,45.83,3,26.98,8,17,5 Glendale Center,2023-12-23,2023-12-23
+978,25.21,The product is a lifesaver,40.88,3,15.67,16,8,7 Summit Junction,2023-01-16,2023-01-16
+979,16.51,Not worth the money,48.8,5,32.29,11,27,09119 Pawling Street,2023-07-05,2023-07-05
+980,10.63,The product is stylish and trendy,56.9,4,46.27,9,75,3693 Messerschmidt Trail,2023-08-10,2023-08-10
+981,29.46,The product is a head-turner,55.23,5,25.77,10,18,94066 Manufacturers Center,2023-10-03,2023-10-03
+982,10.32,The product is versatile and can be used in many ways,58.21,2,47.89,11,42,1 Elgar Park,2023-05-20,2023-05-20
+983,22.85,Not what I expected,38.84,3,15.99,9,97,71488 Trailsway Park,2023-09-17,2023-09-17
+984,27.0,Fast shipping,31.14,3,4.14,11,38,00 Northwestern Lane,2023-01-23,2023-01-23
+985,24.39,The product is a crowd-pleaser,35.75,3,11.36,13,47,7 Orin Alley,2023-01-25,2023-01-25
+986,30.0,The product exceeded my expectations,55.77,4,25.77,10,59,3 Cambridge Plaza,2023-09-29,2023-09-29
+987,19.79,The product is perfect for my needs,43.7,2,23.91,13,56,097 Prairie Rose Junction,2023-04-20,2023-04-20
+988,28.63,The product is a mood-booster,49.79,2,21.16,11,44,3807 Anhalt Circle,2023-01-22,2023-01-22
+989,21.5,The product is not durable,47.04,4,25.54,13,32,80 Karstens Plaza,2023-11-19,2023-11-19
+990,26.56,Highly recommend this product,41.39,5,14.83,9,50,81162 Magdeline Road,2023-09-16,2023-09-16
+991,19.46,order a size up,36.47,3,17.01,11,10,43896 Nevada Trail,2023-10-16,2023-10-16
+992,27.59,I love this product so much,53.0,4,25.41,15,23,19 Reindahl Crossing,2023-09-11,2023-09-11
+993,20.91,The product is a show-stopper,41.13,5,20.22,12,95,268 Havey Terrace,2023-11-05,2023-11-05
+994,27.2,great service,37.42,3,10.22,11,67,28 Forster Road,2023-03-19,2023-03-19
+995,26.74,The product is perfect for my needs,54.73,5,27.99,16,86,672 Sloan Point,2023-01-25,2023-01-25
+996,29.56,The product is a conversation-starter,43.84,2,14.28,15,83,6275 Vahlen Drive,2023-10-03,2023-10-03
+997,14.51,The product is a crowd-pleaser,58.62,1,44.11,11,34,0 Lighthouse Bay Road,2023-06-04,2023-06-04
+998,17.29,The product is difficult to assemble,50.31,1,33.02,12,35,13 Riverside Park,2023-05-12,2023-05-12
+999,27.88,This product is amazing!,33.59,1,5.71,11,31,027 Thompson Trail,2023-07-20,2023-07-20
+1000,20.4,Great quality,31.62,1,11.22,14,65,47 Vermont Point,2023-01-09,2023-01-09

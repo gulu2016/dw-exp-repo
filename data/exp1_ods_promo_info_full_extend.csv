@@ -1,0 +1,101 @@
+id,company_name,owner_name,promotion_name,is_active,create_time,update_time
+1,Pannier,rscriven0,Spa Sensation Sale,1,2023-10-27,2023-11-12
+2,Alpha,lborres1,Customer Appreciation Sale,0,2023-11-06,2023-11-14
+3,Tempsoft,odenk2,Home Makeover Sale,1,2023-11-17,2023-12-03
+4,Voltsillam,aosban3,Mother's Day Celebration,1,2023-01-23,2023-02-07
+5,Sonsing,lnalder4,Winter Warm-Up Sale,0,2023-07-02,2023-07-29
+6,Bitchip,zbratten5,Crafty Creations Discount,1,2023-05-10,2023-05-25
+7,Cookley,pgrigoriev6,Summer Sale,1,2023-01-15,2023-02-09
+8,Konklux,twhelpton7,Music Mania Promotion,1,2023-05-26,2023-06-20
+9,Ronstring,marington8,Poolside Paradise Sale,1,2023-09-23,2023-10-14
+10,Bitchip,nbrunger9,Fashion Finds Special,0,2023-11-30,2023-12-22
+11,Bamity,kbrabanta,Backyard BBQ Bonanza,0,2023-05-09,2023-05-20
+12,Fix San,pgerlerb,Summer Sale,0,2023-10-10,2023-10-18
+13,Bamity,levinsc,Patio Party Promotion,1,2023-06-13,2023-06-28
+14,Vagram,gpickupd,Baking Bliss Promotion,0,2023-01-16,2023-02-11
+15,Quo Lux,mconrade,Gadget Galore Discount,1,2023-05-03,2023-05-19
+16,Redhold,rmajuryf,Backyard BBQ Bonanza,0,2023-01-31,2023-02-24
+17,Bamity,saiersg,Savings Saturday,1,2023-09-15,2023-10-12
+18,Solarbreeze,gculshawh,Foodie Fun Sale,1,2023-02-23,2023-03-20
+19,Tempsoft,gmacilhenchi,End of Season Clearance,0,2023-06-04,2023-06-27
+20,Biodex,psacchettij,Game Night Promotion,0,2023-05-08,2023-05-30
+21,Veribet,gvanderbrugk,Patio Party Promotion,0,2023-12-28,2024-01-07
+22,Zontrax,nferniel,Game Night Promotion,1,2023-09-03,2023-09-16
+23,Flowdesk,tbullem,Fashion Finds Special,0,2023-11-21,2023-12-06
+24,Bitwolf,mlabbezn,Fashionista Finds Promotion,0,2023-02-14,2023-03-10
+25,Hatity,bsothebyo,New Year,1,2023-09-25,2023-10-18
+26,Cardify,gdittp,Self-Care Sunday Sale,0,2023-04-18,2023-04-28
+27,Hatity,rrevanceq,Thrifty Thursday Special,1,2023-03-26,2023-04-05
+28,Fixflex,dgreenroar,Gaming Gear Promotion,1,2023-01-27,2023-02-21
+29,Ventosanzap,smcanalleys,Fashionista Finds Promotion,0,2023-06-19,2023-07-17
+30,Asoka,ebulliventt,Food Truck Frenzy Special,1,2023-03-20,2023-04-11
+31,Flowdesk,mwindersu,Game Day Special,1,2023-06-11,2023-06-24
+32,Kanlam,ldobsonv,Valentine's Day Special,0,2023-04-10,2023-05-04
+33,Opela,rjurczykw,New Savings,0,2023-05-25,2023-06-19
+34,Bigtax,ethomazinx,Baking Bonanza Sale,0,2023-07-04,2023-07-19
+35,Tampflex,kpaynesy,Home Chef Special,1,2023-09-21,2023-10-17
+36,Zamit,graglesz,Tech Talk Discount,0,2023-08-21,2023-09-06
+37,Andalax,dmcwhinnie10,Home Sweet Home Promotion,1,2023-11-18,2023-11-29
+38,It,igourlay11,Thrifty Thursday Special,1,2023-01-24,2023-02-20
+39,Cardify,dswindley12,Outdoor Enthusiast Sale,0,2023-08-09,2023-08-25
+40,Home Ing,agarfoot13,Independence Day Sale,0,2023-05-17,2023-05-26
+41,Y-Solowarm,amanville14,Home Harmony Sale,1,2023-12-24,2024-01-06
+42,Home Ing,rbeig15,Pet Paradise Discount,0,2023-12-12,2023-12-30
+43,Tempsoft,lchene16,Fitness Challenge Deal,1,2023-01-17,2023-02-11
+44,Gembucket,jabelov17,Home Harmony Sale,1,2023-02-07,2023-02-15
+45,Y-find,skores18,Baking Bliss Promotion,0,2023-01-14,2023-01-30
+46,Bitwolf,bsomerton19,Techie Treasures Discount,1,2023-08-26,2023-09-19
+47,Alpha,sgotch1a,Backyard BBQ Bonanza,1,2023-06-22,2023-07-15
+48,Lotlux,vmonte1b,Beach Bash Blowout,1,2023-04-03,2023-04-15
+49,Y-Solowarm,jdunbabin1c,Easter Eggstravaganza,0,2023-10-28,2023-11-07
+50,Namfix,mfarryann1d,Pet Lover's Discount,1,2023-02-04,2023-03-02
+51,Otcom,arenfree1e,Pet Paradise Discount,0,2023-05-04,2023-05-21
+52,Greenlam,eblonden1f,Tech Tuesday Sale,1,2023-09-13,2023-10-10
+53,Sonair,azannini1g,Holiday Special,1,2023-05-05,2023-05-30
+54,Fixflex,dkirlin1h,Game Night Promotion,1,2023-03-18,2023-04-03
+55,Asoka,mredrup1i,Tech Tuesday Sale,0,2023-08-03,2023-08-26
+56,Subin,kbreissan1j,End of Season Clearance,0,2023-12-21,2024-01-07
+57,Kanlam,mbrade1k,Fashion Forward Promotion,1,2023-07-12,2023-07-30
+58,Alphazap,kmarjoribanks1l,Back to School Discount,0,2023-03-06,2023-03-20
+59,Subin,blottrington1m,Book Club Discount,1,2023-07-13,2023-08-01
+60,Cookley,glorie1n,Winter Wonderland Sale,1,2023-04-08,2023-04-18
+61,Hatity,rfridaye1o,Baking Bliss Promotion,0,2023-10-30,2023-11-12
+62,Solarbreeze,mandrzejak1p,Tech Trends Promotion,0,2023-12-03,2023-12-19
+63,Greenlam,istaddon1q,Game Day Special,1,2023-06-08,2023-06-19
+64,Job,cgimber1r,Mother's Day Celebration,1,2023-03-03,2023-03-23
+65,Lotstring,cquarry1s,Mother's Day Celebration,1,2023-09-06,2023-09-28
+66,Biodex,nsloegrave1t,Home Decor Special,1,2023-05-30,2023-06-09
+67,Prodder,lyitzhakof1u,Pet Paradise Discount,0,2023-03-21,2023-03-31
+68,Temp,kzorzoni1v,Artistic Endeavors Sale,1,2023-03-22,2023-04-17
+69,Fintone,boffell1w,Game Night Promotion,1,2023-10-26,2023-11-16
+70,Latlux,qingilson1x,Home Harmony Sale,1,2023-05-07,2023-05-29
+71,Opela,amcjarrow1y,Food Truck Frenzy Special,1,2023-08-25,2023-09-16
+72,Span,edavenall1z,Black Friday Blowout,1,2023-02-26,2023-03-17
+73,Job,khandover20,Valentine's Day Special,1,2023-11-01,2023-11-25
+74,Tresom,sfahy21,Outdoor Excursion Discount,1,2023-07-29,2023-08-08
+75,Zathin,dcasper22,Book Club Discount,1,2023-04-09,2023-04-17
+76,Span,adyhouse23,Music Mixer Discount,1,2023-05-15,2023-05-25
+77,Wrapsafe,ychalfant24,Artistic Endeavors Sale,1,2023-03-26,2023-04-13
+78,Matsoft,ccardew25,Savings Saturday,1,2023-03-25,2023-04-06
+79,Y-find,esimmans26,Bookworm Bonanza,1,2023-01-02,2023-01-22
+80,Stronghold,mbook27,Home Decor Special,1,2023-12-16,2024-01-07
+81,Aerified,csibthorp28,Music Mixer Discount,1,2023-11-19,2023-12-05
+82,Namfix,uciraldo29,Tech Tuesday Sale,0,2023-09-11,2023-09-21
+83,Biodex,esheerman2a,Spa Sensation Sale,0,2023-05-20,2023-06-01
+84,Otcom,bclues2b,Tech Tuesday Sale,1,2023-11-20,2023-11-29
+85,Mat Lam Tam,rplaskett2c,Home Makeover Sale,1,2023-10-24,2023-11-18
+86,Alphazap,mpeile2d,Winter Warm-Up Sale,0,2023-06-11,2023-06-24
+87,Bitwolf,mscholefield2e,New Year's Promotion,0,2023-11-25,2023-12-12
+88,Vagram,cwale2f,Gamer's Paradise Promotion,0,2023-07-21,2023-08-14
+89,Flowdesk,tbreakspear2g,Fashion Finds Special,0,2023-10-14,2023-10-29
+90,Zamit,myakushkin2h,Christmas Countdown Sale,0,2023-04-12,2023-05-08
+91,Temp,vwestrip2i,Movie Marathon Special,0,2023-01-26,2023-02-19
+92,Zaam-Dox,kollerearnshaw2j,Independence Day Sale,0,2023-04-14,2023-04-28
+93,Alpha,tmoralis2k,Fitness Fiesta Sale,1,2023-05-09,2023-06-03
+94,Quo Lux,mmccreery2l,Savings Saturday,0,2023-10-30,2023-11-08
+95,Aerified,ehoult2m,Poolside Paradise Sale,1,2023-09-13,2023-10-04
+96,Overhold,amarxsen2n,Spa Day Special,0,2023-06-02,2023-06-19
+97,Opela,cgenese2o,Movie Marathon Special,1,2023-12-20,2024-01-03
+98,Wrapsafe,zedmeades2p,New Year's Promotion,0,2023-06-02,2023-06-17
+99,Viva,tkenna2q,Crafty Creations Discount,1,2023-06-23,2023-07-13
+100,Zamit,dmeredyth2r,Cyber Monday Madness,0,2023-03-24,2023-04-05
